@@ -1,0 +1,1001 @@
+﻿patient_id,complaint_text,label,category,center_id,week,department,split
+P003001,There is only one toilet for forty patients on this floor. Please investigate this matter urgently.,2,Management problems,2,1,Emergency,test
+P003002,The complaint office itself never answers its own phone. This is not the first time this has happened to me.,2,Management problems,4,11,Emergency,test
+P003003,The pharmacist refused to explain how to take my pills. I have witnesses who can confirm this.,0,Communication problems,1,10,Emergency,test
+P003004,The nurse rolled her eyes when I described my symptoms. The hospital refused to share the incident report with my family.,0,Communication problems,1,3,Pediatrics,test
+P003005,The complaint office itself never answers its own phone.,2,Management problems,3,10,Pediatrics,test
+P003006,My fracture was missed on the X-ray and discovered weeks later. I was scolded for crying during a painful dressing change.,1,Diagnosis/Treatment issues,5,1,Radiology,test
+P003007,The cast was too tight and cut off circulation to my foot. Please investigate this matter urgently.,1,Diagnosis/Treatment issues,1,9,Surgery,test
+P003008,A sponge was left inside me after the operation.,1,Diagnosis/Treatment issues,3,9,Emergency,test
+P003009,I was blamed for being sick when I asked for help walking. I will escalate this to the health ministry if needed.,0,Communication problems,1,3,Emergency,test
+P003010,The prescribed dosage was wrong and caused severe side effects. The consultant spoke only to my husband and never to me.,1,Diagnosis/Treatment issues,1,9,Radiology,test
+P003011,A sponge was left inside me after the operation.,1,Diagnosis/Treatment issues,5,10,Radiology,test
+P003012,Nurses scolded me for asking for pain relief twice. My family is very upset about this incident.,0,Communication problems,2,8,Internal,test
+P003013,The night nurse threatened to remove my visitors for no reason. This is not the first time this has happened to me.,0,Communication problems,2,8,Pediatrics,test
+P003014,"After the incident, no manager would meet me or apologize.",3,Responsibility concerns,4,7,Pediatrics,test
+P003015,My stroke symptoms were sent home as migraine twice. This should never happen to any patient again.,1,Diagnosis/Treatment issues,5,4,Emergency,test
+P003016,The doctor discussed my private condition loudly in the corridor. I have witnesses who can confirm this.,0,Communication problems,5,3,Surgery,test
+P003017,The physician used offensive language during my examination.,0,Communication problems,5,10,Radiology,test
+P003018,I developed an infection because instruments were not sterilized. They pressured me to withdraw my complaint against the clinic. I trusted this hospital and I feel betrayed.,1,Diagnosis/Treatment issues,1,10,Emergency,test
+P003019,My appendicitis was dismissed as stomach flu until it ruptured.,1,Diagnosis/Treatment issues,1,12,Pediatrics,test
+P003020,Online booking never works and the phone line is always busy.,2,Management problems,4,6,Pediatrics,test
+P003021,The triage nurse ignored my pain and told me to wait silently.,0,Communication problems,5,9,Emergency,test
+P003022,The surgeon was arrogant and refused to explain the risks.,0,Communication problems,3,1,Internal,test
+P003023,Nobody supervised the trainee who performed my procedure alone. This should never happen to any patient again.,3,Responsibility concerns,4,12,Emergency,test
+P003024,The supervisor promised an investigation that never happened. The whole experience was extremely distressing.,3,Responsibility concerns,2,4,Internal,test
+P003025,My stroke symptoms were sent home as migraine twice. I expect a formal written response.,1,Diagnosis/Treatment issues,4,2,Surgery,test
+P003026,The doctor spent less than a minute with me and walked away. The whole experience was extremely distressing.,0,Communication problems,4,2,Pediatrics,test
+P003027,The hospital bus never follows the announced timetable.,2,Management problems,1,11,Pediatrics,test
+P003028,The consultant spoke only to my husband and never to me. I want an apology and corrective action.,0,Communication problems,5,2,Internal,test
+P003029,I waited four months for a specialist appointment that was cancelled.,2,Management problems,5,9,Pediatrics,test
+P003030,The midwife was rough and showed no empathy during labor.,0,Communication problems,2,8,Emergency,test
+P003031,They confused my lab results with another patient and mistreated me.,1,Diagnosis/Treatment issues,3,10,Surgery,test
+P003032,My referral letter expired while waiting for an authorization code. I was scolded for crying during a painful dressing change.,2,Management problems,1,3,Radiology,test
+P003033,Internal review cleared everyone without speaking to a single patient.,3,Responsibility concerns,2,4,Internal,test
+P003034,Discharge medicines were missing half the prescribed items.,2,Management problems,5,6,Surgery,test
+P003035,"The ward was dirty, overcrowded and the bathroom had no water.",2,Management problems,3,11,Pediatrics,test
+P003036,The pharmacy had no stock of my prescribed medicine for weeks.,2,Management problems,4,4,Surgery,test
+P003037,A sponge was left inside me after the operation. I trusted this hospital and I feel betrayed.,1,Diagnosis/Treatment issues,3,11,Internal,test
+P003038,The physician used offensive language during my examination.,0,Communication problems,5,2,Radiology,test
+P003039,They offered me money quietly instead of fixing the real problem.,3,Responsibility concerns,3,1,Internal,test
+P003040,Visiting hours change daily and nobody informs the families.,2,Management problems,4,3,Emergency,test
+P003041,Hospital corridors are filthy and smell of smoke. This is not the first time this has happened to me.,2,Management problems,4,8,Surgery,test
+P003042,Staff attitude was unacceptable; nobody explained the waiting time. Each department blamed the other and nothing was ever fixed.,0,Communication problems,5,6,Internal,test
+P003043,"After the incident, no manager would meet me or apologize. Someone must be held accountable for this.",3,Responsibility concerns,4,9,Internal,test
+P003044,No one followed up after my surgery complications were reported.,3,Responsibility concerns,2,9,Surgery,test
+P003045,Nobody noticed my broken ribs on three separate visits. I paid for a private room but was placed in a shared ward.,1,Diagnosis/Treatment issues,2,1,Radiology,test
+P003046,Nobody answered my questions and the staff seemed annoyed. The clinic deleted my negative feedback from their website. I have witnesses who can confirm this.,0,Communication problems,3,8,Pediatrics,test
+P003047,Accountability is zero; the same error happened to my neighbor.,3,Responsibility concerns,4,12,Radiology,test
+P003048,My call button was ignored for over an hour last night.,0,Communication problems,3,5,Internal,test
+P003049,My baby received an adult dose of vaccine by mistake.,1,Diagnosis/Treatment issues,5,8,Radiology,test
+P003050,Hospital parking and admission queues are completely unmanaged.,2,Management problems,5,4,Surgery,test
+P003051,No one introduced themselves or told me their role in my care. I have witnesses who can confirm this.,0,Communication problems,2,4,Emergency,test
+P003052,My stroke symptoms were sent home as migraine twice. The whole experience was extremely distressing.,1,Diagnosis/Treatment issues,1,7,Surgery,test
+P003053,The hospital lawyer threatened me for posting an honest review.,3,Responsibility concerns,5,5,Surgery,test
+P003054,My request for a second opinion was blocked by the same doctor.,3,Responsibility concerns,4,10,Emergency,test
+P003055,"The ward was dirty, overcrowded and the bathroom had no water. My formal complaint was ignored for six months without a reply. I have witnesses who can confirm this.",2,Management problems,4,8,Internal,test
+P003056,No one followed up after my surgery complications were reported. I have photos and documents as evidence.,3,Responsibility concerns,2,6,Radiology,test
+P003057,Chemotherapy dosage was miscalculated and poisoned my kidneys. Please investigate this matter urgently.,1,Diagnosis/Treatment issues,4,8,Emergency,test
+P003058,They confused my lab results with another patient and mistreated me. The pharmacist refused to explain how to take my pills. I want an apology and corrective action.,1,Diagnosis/Treatment issues,5,8,Emergency,test
+P003059,Management admitted the fault verbally but denied it in writing. I waited four months for a specialist appointment that was cancelled. I trusted this hospital and I feel betrayed.,3,Responsibility concerns,5,9,Radiology,test
+P003060,My baby received an adult dose of vaccine by mistake. I have photos and documents as evidence.,1,Diagnosis/Treatment issues,4,2,Radiology,test
+P003061,The radiologist missed the blood clot clearly visible on the scan.,1,Diagnosis/Treatment issues,5,9,Radiology,test
+P003062,I was given blood from the wrong group and nearly died. The whole experience was extremely distressing.,1,Diagnosis/Treatment issues,2,10,Internal,test
+P003063,I was discharged with untreated pneumonia and collapsed at home. I have photos and documents as evidence.,1,Diagnosis/Treatment issues,3,10,Surgery,test
+P003064,The clinic opens late every morning with a huge crowd outside. The nurse was rude and dismissive when I asked about my medication.,2,Management problems,4,6,Internal,test
+P003065,Risk management closed my case without interviewing me. They confused my lab results with another patient and mistreated me. I will escalate this to the health ministry if needed.,3,Responsibility concerns,2,5,Radiology,test
+P003066,Security guards treated patients like criminals at the entrance. This is not the first time this has happened to me.,0,Communication problems,3,3,Surgery,test
+P003067,I was blamed for being sick when I asked for help walking. No doctor was present during the entire night shift.,0,Communication problems,5,5,Internal,test
+P003068,"The ward was dirty, overcrowded and the bathroom had no water.",2,Management problems,4,9,Internal,test
+P003069,The nurse rolled her eyes when I described my symptoms.,0,Communication problems,5,6,Emergency,test
+P003070,The radiologist missed the blood clot clearly visible on the scan.,1,Diagnosis/Treatment issues,4,8,Surgery,test
+P003071,The pharmacy had no stock of my prescribed medicine for weeks. The whole experience was extremely distressing.,2,Management problems,1,9,Pediatrics,test
+P003072,I was given blood from the wrong group and nearly died.,1,Diagnosis/Treatment issues,2,10,Emergency,test
+P003073,The doctor discussed my private condition loudly in the corridor. My family is very upset about this incident.,0,Communication problems,2,4,Emergency,test
+P003074,The midwife was rough and showed no empathy during labor.,0,Communication problems,1,11,Emergency,test
+P003075,The prescribed dosage was wrong and caused severe side effects. I expect a formal written response.,1,Diagnosis/Treatment issues,2,9,Pediatrics,test
+P003076,Wrong insulin dose sent me to the emergency room the same night. The doctor discussed my private condition loudly in the corridor. I want an apology and corrective action.,1,Diagnosis/Treatment issues,5,12,Surgery,test
+P003077,The hospital food was expired and several patients got sick.,2,Management problems,2,12,Radiology,test
+P003078,The doctor spent less than a minute with me and walked away. I expect a formal written response.,0,Communication problems,5,11,Pediatrics,test
+P003079,Security guards treated patients like criminals at the entrance. This happened during my visit last week.,0,Communication problems,3,8,Emergency,test
+P003080,I was discharged with untreated pneumonia and collapsed at home.,1,Diagnosis/Treatment issues,4,8,Pediatrics,test
+P003081,The biopsy sample was lost and my treatment was delayed months.,1,Diagnosis/Treatment issues,3,10,Internal,test
+P003082,Accountability is zero; the same error happened to my neighbor. Nobody answered my questions and the staff seemed annoyed. I want an apology and corrective action.,3,Responsibility concerns,5,3,Surgery,test
+P003083,I asked for an interpreter but the staff mocked my request.,0,Communication problems,2,12,Radiology,test
+P003084,The treatment did not follow the guidelines and my condition worsened.,1,Diagnosis/Treatment issues,5,8,Emergency,test
+P003085,The hospital blamed my age instead of their missed diagnosis. I felt humiliated by the way the physician spoke to me.,3,Responsibility concerns,4,1,Surgery,test
+P003086,My stroke symptoms were sent home as migraine twice. This is not the first time this has happened to me.,1,Diagnosis/Treatment issues,1,6,Surgery,test
+P003087,Security guards treated patients like criminals at the entrance. I received another patient's medication because labels were swapped. I want an apology and corrective action.,0,Communication problems,5,7,Internal,test
+P003088,Ambulance took two hours to arrive after my father's heart attack. The whole experience was extremely distressing.,2,Management problems,5,8,Internal,test
+P003089,No doctor was present during the entire night shift. This is not the first time this has happened to me.,2,Management problems,2,4,Pediatrics,test
+P003090,The night nurse threatened to remove my visitors for no reason.,0,Communication problems,2,7,Radiology,test
+P003091,The hospital blamed my age instead of their missed diagnosis. I trusted this hospital and I feel betrayed.,3,Responsibility concerns,3,7,Radiology,test
+P003092,Staff denied everything even though witnesses confirmed my story. Someone must be held accountable for this.,3,Responsibility concerns,3,9,Surgery,test
+P003093,I was discharged with untreated pneumonia and collapsed at home.,1,Diagnosis/Treatment issues,1,7,Surgery,test
+P003094,I paid for a private room but was placed in a shared ward.,2,Management problems,4,3,Emergency,test
+P003095,There were no available beds and I slept on a chair overnight. The whole experience was extremely distressing.,2,Management problems,2,1,Radiology,test
+P003096,The triage nurse ignored my pain and told me to wait silently. This should never happen to any patient again.,0,Communication problems,1,1,Internal,test
+P003097,Accountability is zero; the same error happened to my neighbor. I am filing this complaint on behalf of my father.,3,Responsibility concerns,4,5,Pediatrics,test
+P003098,Each department blamed the other and nothing was ever fixed. I will escalate this to the health ministry if needed.,3,Responsibility concerns,4,9,Surgery,test
+P003099,Visiting hours change daily and nobody informs the families. I want an apology and corrective action.,2,Management problems,1,4,Internal,test
+P003100,The follow-up scan was never ordered and the tumor kept growing. Someone must be held accountable for this.,1,Diagnosis/Treatment issues,2,2,Emergency,test
+P003101,The surgeon was arrogant and refused to explain the risks.,0,Communication problems,5,1,Radiology,test
+P003102,The ethics committee never replied to any of my three letters. Ambulance took two hours to arrive after my father's heart attack. I expect a formal written response.,3,Responsibility concerns,4,1,Internal,test
+P003103,Ambulance took two hours to arrive after my father's heart attack. No one introduced themselves or told me their role in my care.,2,Management problems,5,1,Surgery,test
+P003104,The doctor discussed my private condition loudly in the corridor. Someone must be held accountable for this.,0,Communication problems,3,2,Surgery,test
+P003105,My referral letter expired while waiting for an authorization code. The allergy test was misread and I was exposed to the allergen.,2,Management problems,1,10,Pediatrics,test
+P003106,My baby received an adult dose of vaccine by mistake. The pharmacy had no stock of my prescribed medicine for weeks.,1,Diagnosis/Treatment issues,4,11,Emergency,test
+P003107,The night nurse threatened to remove my visitors for no reason.,0,Communication problems,5,10,Radiology,test
+P003108,Security guards treated patients like criminals at the entrance. My family is very upset about this incident.,0,Communication problems,4,7,Surgery,test
+P003109,Accountability is zero; the same error happened to my neighbor. I am filing this complaint on behalf of my father.,3,Responsibility concerns,5,9,Radiology,test
+P003110,The dentist pulled the wrong tooth and damaged the healthy one.,1,Diagnosis/Treatment issues,1,5,Internal,test
+P003111,They overcharged me for services I never received. I have witnesses who can confirm this.,2,Management problems,4,9,Surgery,test
+P003112,The same faulty machine injured patients for months with no recall. I have photos and documents as evidence.,3,Responsibility concerns,1,9,Radiology,test
+P003113,The director refused to meet families of affected patients. I have photos and documents as evidence.,3,Responsibility concerns,1,11,Pediatrics,test
+P003114,The director refused to meet families of affected patients.,3,Responsibility concerns,1,8,Internal,test
+P003115,Nobody noticed my broken ribs on three separate visits. My formal complaint was ignored for six months without a reply. The whole experience was extremely distressing.,1,Diagnosis/Treatment issues,5,7,Pediatrics,test
+P003116,Internal review cleared everyone without speaking to a single patient. Nobody answered my questions and the staff seemed annoyed. I want an apology and corrective action.,3,Responsibility concerns,5,7,Pediatrics,test
+P003117,My surgery was cancelled twice because the room was double-booked. I am filing this complaint on behalf of my father.,2,Management problems,3,9,Emergency,test
+P003118,Ambulance took two hours to arrive after my father's heart attack. They offered me money quietly instead of fixing the real problem. I have photos and documents as evidence.,2,Management problems,2,5,Internal,test
+P003119,The radiologist missed the blood clot clearly visible on the scan. I will escalate this to the health ministry if needed.,1,Diagnosis/Treatment issues,3,10,Surgery,test
+P003120,Wrong insulin dose sent me to the emergency room the same night.,1,Diagnosis/Treatment issues,2,7,Radiology,test
+P003121,The night nurse threatened to remove my visitors for no reason.,0,Communication problems,5,9,Internal,test
+P003122,The follow-up scan was never ordered and the tumor kept growing. I want an apology and corrective action.,1,Diagnosis/Treatment issues,2,6,Emergency,test
+P003123,My fracture was missed on the X-ray and discovered weeks later.,1,Diagnosis/Treatment issues,4,2,Emergency,test
+P003124,The cast was too tight and cut off circulation to my foot.,1,Diagnosis/Treatment issues,1,11,Surgery,test
+P003125,The head nurse said mistakes happen and walked away. This should never happen to any patient again.,3,Responsibility concerns,2,11,Pediatrics,test
+P003126,Staff refused to speak slowly even though I am hard of hearing.,0,Communication problems,4,4,Radiology,test
+P003127,Nobody took responsibility for the mistake in my treatment plan. I am filing this complaint on behalf of my father.,3,Responsibility concerns,1,11,Internal,test
+P003128,The same faulty machine injured patients for months with no recall.,3,Responsibility concerns,5,7,Emergency,test
+P003129,My medical records were lost and I had to redo all the tests. Someone must be held accountable for this.,2,Management problems,4,12,Pediatrics,test
+P003130,The contraceptive implant was placed wrongly and failed. Online booking never works and the phone line is always busy. This is not the first time this has happened to me.,1,Diagnosis/Treatment issues,5,4,Internal,test
+P003131,My fracture was missed on the X-ray and discovered weeks later. I will escalate this to the health ministry if needed.,1,Diagnosis/Treatment issues,3,7,Surgery,test
+P003132,The nurse was rude and dismissive when I asked about my medication. The clinic deleted my negative feedback from their website.,0,Communication problems,5,1,Surgery,test
+P003133,The allergy test was misread and I was exposed to the allergen. I trusted this hospital and I feel betrayed.,1,Diagnosis/Treatment issues,2,2,Internal,test
+P003134,The prescribed dosage was wrong and caused severe side effects. The whole experience was extremely distressing.,1,Diagnosis/Treatment issues,1,10,Internal,test
+P003135,The clinic deleted my negative feedback from their website.,3,Responsibility concerns,3,8,Emergency,test
+P003136,The treatment did not follow the guidelines and my condition worsened. The whole experience was extremely distressing.,1,Diagnosis/Treatment issues,1,7,Surgery,test
+P003137,Visiting hours change daily and nobody informs the families. The whole experience was extremely distressing.,2,Management problems,4,11,Radiology,test
+P003138,The intensive care unit had no free ventilator when I needed one. I have photos and documents as evidence.,2,Management problems,4,6,Surgery,test
+P003139,My surgery was cancelled twice because the room was double-booked. This happened during my visit last week.,2,Management problems,3,9,Radiology,test
+P003140,I paid for a private room but was placed in a shared ward.,2,Management problems,5,9,Internal,test
+P003141,My allergy to penicillin was ignored and I went into shock. There is only one toilet for forty patients on this floor. I want an apology and corrective action.,1,Diagnosis/Treatment issues,4,4,Pediatrics,test
+P003142,I was discharged with untreated pneumonia and collapsed at home. The complaint office itself never answers its own phone.,1,Diagnosis/Treatment issues,5,12,Pediatrics,test
+P003143,The head nurse said mistakes happen and walked away.,3,Responsibility concerns,3,7,Pediatrics,test
+P003144,The emergency room wait took nine hours with no triage update. I developed an infection because instruments were not sterilized. I want an apology and corrective action.,2,Management problems,5,7,Radiology,test
+P003145,Accountability is zero; the same error happened to my neighbor. This happened during my visit last week.,3,Responsibility concerns,1,12,Radiology,test
+P003146,The midwife was rough and showed no empathy during labor. I was given blood from the wrong group and nearly died.,0,Communication problems,1,11,Surgery,test
+P003147,The receptionist hung up on me three times when I called. I waited four months for a specialist appointment that was cancelled.,0,Communication problems,4,11,Pediatrics,test
+P003148,The pharmacy denied the dispensing error despite the receipt proof. I trusted this hospital and I feel betrayed.,3,Responsibility concerns,1,9,Radiology,test
+P003149,The eye injection was done incorrectly and damaged my vision. The intensive care unit had no free ventilator when I needed one. Someone must be held accountable for this.,1,Diagnosis/Treatment issues,4,6,Emergency,test
+P003150,Doctors changed my file after I complained about the error.,3,Responsibility concerns,2,11,Pediatrics,test
+P003151,I felt humiliated by the way the physician spoke to me. I have photos and documents as evidence.,0,Communication problems,2,8,Emergency,test
+P003152,The allergy test was misread and I was exposed to the allergen. The pharmacy had no stock of my prescribed medicine for weeks.,1,Diagnosis/Treatment issues,2,7,Internal,test
+P003153,I was given blood from the wrong group and nearly died. Someone must be held accountable for this.,1,Diagnosis/Treatment issues,1,2,Surgery,test
+P003154,I asked for an interpreter but the staff mocked my request. This is not the first time this has happened to me.,0,Communication problems,3,11,Surgery,test
+P003155,Each department blamed the other and nothing was ever fixed. This should never happen to any patient again.,3,Responsibility concerns,1,4,Internal,test
+P003156,The nurse rolled her eyes when I described my symptoms.,0,Communication problems,4,6,Surgery,test
+P003157,The pharmacy had no stock of my prescribed medicine for weeks. Management admitted the fault verbally but denied it in writing. My family is very upset about this incident.,2,Management problems,5,10,Internal,test
+P003158,The follow-up scan was never ordered and the tumor kept growing. My family is very upset about this incident.,1,Diagnosis/Treatment issues,3,9,Internal,test
+P003159,I was blamed for being sick when I asked for help walking.,0,Communication problems,5,5,Pediatrics,test
+P003160,The consultant spoke only to my husband and never to me.,0,Communication problems,5,12,Emergency,test
+P003161,Staff attitude was unacceptable; nobody explained the waiting time.,0,Communication problems,5,10,Internal,test
+P003162,Staff denied everything even though witnesses confirmed my story.,3,Responsibility concerns,5,2,Surgery,test
+P003163,The triage nurse ignored my pain and told me to wait silently.,0,Communication problems,4,7,Radiology,test
+P003164,The emergency room wait took nine hours with no triage update. This is not the first time this has happened to me.,2,Management problems,3,12,Pediatrics,test
+P003165,I was given blood from the wrong group and nearly died.,1,Diagnosis/Treatment issues,1,5,Internal,test
+P003166,I was misdiagnosed twice before they found the real infection. I have photos and documents as evidence.,1,Diagnosis/Treatment issues,5,9,Pediatrics,test
+P003167,Internal review cleared everyone without speaking to a single patient.,3,Responsibility concerns,5,6,Surgery,test
+P003168,My allergy to penicillin was ignored and I went into shock.,1,Diagnosis/Treatment issues,1,11,Emergency,test
+P003169,The doctor prescribed a drug that interacts badly with my heart pills. I expect a formal written response.,1,Diagnosis/Treatment issues,5,4,Internal,test
+P003170,I was scolded for crying during a painful dressing change. Please investigate this matter urgently.,0,Communication problems,4,7,Internal,test
+P003171,The triage nurse ignored my pain and told me to wait silently. I am filing this complaint on behalf of my father.,0,Communication problems,4,4,Internal,test
+P003172,The pharmacy had no stock of my prescribed medicine for weeks.,2,Management problems,1,4,Internal,test
+P003173,The doctor laughed when I mentioned my fear of the procedure.,0,Communication problems,3,3,Emergency,test
+P003174,The same faulty machine injured patients for months with no recall.,3,Responsibility concerns,4,12,Internal,test
+P003175,No doctor was present during the entire night shift.,2,Management problems,3,7,Radiology,test
+P003176,My surgery was cancelled twice because the room was double-booked. My family is very upset about this incident.,2,Management problems,3,11,Pediatrics,test
+P003177,The treatment did not follow the guidelines and my condition worsened.,1,Diagnosis/Treatment issues,3,1,Surgery,test
+P003178,My call button was ignored for over an hour last night. I was misdiagnosed twice before they found the real infection.,0,Communication problems,5,5,Surgery,test
+P003179,Management admitted the fault verbally but denied it in writing. This is not the first time this has happened to me.,3,Responsibility concerns,2,11,Surgery,test
+P003180,My compensation claim has been pending for over two years. I have witnesses who can confirm this.,3,Responsibility concerns,3,2,Internal,test
+P003181,The physician used offensive language during my examination.,0,Communication problems,3,2,Emergency,test
+P003182,Nobody answered my questions and the staff seemed annoyed.,0,Communication problems,5,3,Emergency,test
+P003183,The dentist pulled the wrong tooth and damaged the healthy one. The consultant spoke only to my husband and never to me. I want an apology and corrective action.,1,Diagnosis/Treatment issues,2,2,Radiology,test
+P003184,My fracture was missed on the X-ray and discovered weeks later. The nurse was rude and dismissive when I asked about my medication.,1,Diagnosis/Treatment issues,5,6,Emergency,test
+P003185,They overcharged me for services I never received. I have witnesses who can confirm this.,2,Management problems,1,8,Radiology,test
+P003186,They offered me money quietly instead of fixing the real problem. Someone must be held accountable for this.,3,Responsibility concerns,3,6,Emergency,test
+P003187,My formal complaint was ignored for six months without a reply. The pharmacy had no stock of my prescribed medicine for weeks.,3,Responsibility concerns,2,12,Internal,test
+P003188,Nobody supervised the trainee who performed my procedure alone. Security guards treated patients like criminals at the entrance. I have photos and documents as evidence.,3,Responsibility concerns,4,3,Surgery,test
+P003189,The eye injection was done incorrectly and damaged my vision. My family is very upset about this incident.,1,Diagnosis/Treatment issues,4,9,Radiology,test
+P003190,Ambulance took two hours to arrive after my father's heart attack.,2,Management problems,2,4,Radiology,test
+P003191,The doctor discussed my private condition loudly in the corridor. I was discharged with untreated pneumonia and collapsed at home. This is not the first time this has happened to me.,0,Communication problems,3,8,Radiology,test
+P003192,Hospital parking and admission queues are completely unmanaged. I have photos and documents as evidence.,2,Management problems,4,1,Internal,test
+P003193,The ethics committee never replied to any of my three letters.,3,Responsibility concerns,3,2,Radiology,test
+P003194,The radiologist missed the blood clot clearly visible on the scan.,1,Diagnosis/Treatment issues,3,8,Internal,test
+P003195,The surgery was performed on the wrong site and had to be repeated.,1,Diagnosis/Treatment issues,3,11,Surgery,test
+P003196,My call button was ignored for over an hour last night.,0,Communication problems,3,6,Radiology,test
+P003197,The receptionist shouted at my elderly mother in front of everyone.,0,Communication problems,2,12,Internal,test
+P003198,The elevator was broken and my wheelchair could not reach the clinic. Please investigate this matter urgently.,2,Management problems,5,8,Internal,test
+P003199,Nobody noticed my broken ribs on three separate visits. Nurses scolded me for asking for pain relief twice.,1,Diagnosis/Treatment issues,4,6,Radiology,test
+P003200,The eye injection was done incorrectly and damaged my vision. The whole experience was extremely distressing.,1,Diagnosis/Treatment issues,5,1,Surgery,test
+P003201,I paid for a private room but was placed in a shared ward.,2,Management problems,1,5,Internal,test
+P003202,The hospital refused to share the incident report with my family.,3,Responsibility concerns,3,11,Surgery,test
+P003203,Chemotherapy dosage was miscalculated and poisoned my kidneys. Staff were gossiping instead of attending to patients in the ward. This is not the first time this has happened to me.,1,Diagnosis/Treatment issues,4,1,Emergency,test
+P003204,The follow-up scan was never ordered and the tumor kept growing.,1,Diagnosis/Treatment issues,5,10,Radiology,test
+P003205,Visiting hours change daily and nobody informs the families.,2,Management problems,2,4,Pediatrics,test
+P003206,A delayed cancer diagnosis cost me months of valuable treatment time. Discharge medicines were missing half the prescribed items. The whole experience was extremely distressing.,1,Diagnosis/Treatment issues,3,4,Pediatrics,test
+P003207,The head nurse said mistakes happen and walked away. I have witnesses who can confirm this.,3,Responsibility concerns,3,4,Emergency,test
+P003208,The midwife was rough and showed no empathy during labor. I have photos and documents as evidence.,0,Communication problems,4,6,Pediatrics,test
+P003209,Nurses scolded me for asking for pain relief twice. I want an apology and corrective action.,0,Communication problems,1,3,Radiology,test
+P003210,The triage nurse ignored my pain and told me to wait silently.,0,Communication problems,5,6,Emergency,test
+P003211,The anesthesiologist made an error and I woke up during surgery.,1,Diagnosis/Treatment issues,2,11,Surgery,test
+P003212,My surgery was cancelled twice because the room was double-booked.,2,Management problems,4,5,Radiology,test
+P003213,My referral letter expired while waiting for an authorization code. I have photos and documents as evidence.,2,Management problems,5,3,Pediatrics,test
+P003214,My baby received an adult dose of vaccine by mistake.,1,Diagnosis/Treatment issues,1,2,Radiology,test
+P003215,There is only one toilet for forty patients on this floor. Please investigate this matter urgently.,2,Management problems,5,7,Surgery,test
+P003216,Staff attitude was unacceptable; nobody explained the waiting time. I have witnesses who can confirm this.,0,Communication problems,4,1,Pediatrics,test
+P003217,The director refused to meet families of affected patients. This should never happen to any patient again.,3,Responsibility concerns,3,9,Surgery,test
+P003218,The receptionist hung up on me three times when I called. I am filing this complaint on behalf of my father.,0,Communication problems,5,5,Surgery,test
+P003219,The surgeon was arrogant and refused to explain the risks.,0,Communication problems,4,10,Pediatrics,test
+P003220,The doctor did not listen to my concerns and interrupted me constantly. I will escalate this to the health ministry if needed.,0,Communication problems,2,12,Surgery,test
+P003221,No one followed up after my surgery complications were reported.,3,Responsibility concerns,3,7,Emergency,test
+P003222,I developed an infection because instruments were not sterilized.,1,Diagnosis/Treatment issues,2,8,Pediatrics,test
+P003223,The surgery was performed on the wrong site and had to be repeated.,1,Diagnosis/Treatment issues,3,1,Radiology,test
+P003224,The hospital lawyer threatened me for posting an honest review.,3,Responsibility concerns,2,2,Emergency,test
+P003225,No one followed up after my surgery complications were reported. My call button was ignored for over an hour last night.,3,Responsibility concerns,3,3,Surgery,test
+P003226,The clinic opens late every morning with a huge crowd outside.,2,Management problems,1,1,Emergency,test
+P003227,They overcharged me for services I never received.,2,Management problems,4,10,Surgery,test
+P003228,My stroke symptoms were sent home as migraine twice. The doctor spent less than a minute with me and walked away.,1,Diagnosis/Treatment issues,2,7,Radiology,test
+P003229,I was scolded for crying during a painful dressing change.,0,Communication problems,1,2,Emergency,test
+P003230,The emergency room wait took nine hours with no triage update. The hospital lawyer threatened me for posting an honest review. I am filing this complaint on behalf of my father.,2,Management problems,5,12,Emergency,test
+P003231,The pharmacist refused to explain how to take my pills. I have photos and documents as evidence.,0,Communication problems,3,9,Emergency,test
+P003232,The receptionist hung up on me three times when I called. I want an apology and corrective action.,0,Communication problems,2,10,Surgery,test
+P003233,My stroke symptoms were sent home as migraine twice.,1,Diagnosis/Treatment issues,1,11,Radiology,test
+P003234,The receptionist shouted at my elderly mother in front of everyone.,0,Communication problems,1,12,Surgery,test
+P003235,The biopsy sample was lost and my treatment was delayed months.,1,Diagnosis/Treatment issues,3,3,Emergency,test
+P003236,Wrong insulin dose sent me to the emergency room the same night.,1,Diagnosis/Treatment issues,5,3,Surgery,test
+P003237,I felt humiliated by the way the physician spoke to me. I have photos and documents as evidence.,0,Communication problems,5,10,Surgery,test
+P003238,The surgery was performed on the wrong site and had to be repeated. I expect a formal written response.,1,Diagnosis/Treatment issues,3,9,Surgery,test
+P003239,"After the incident, no manager would meet me or apologize. I am filing this complaint on behalf of my father.",3,Responsibility concerns,3,2,Emergency,test
+P003240,The doctor prescribed a drug that interacts badly with my heart pills. I have witnesses who can confirm this.,1,Diagnosis/Treatment issues,5,10,Emergency,test
+P003241,The doctor prescribed a drug that interacts badly with my heart pills.,1,Diagnosis/Treatment issues,3,8,Emergency,test
+P003242,The air conditioning was broken and the ward was unbearable.,2,Management problems,4,12,Internal,test
+P003243,The emergency room wait took nine hours with no triage update.,2,Management problems,4,9,Pediatrics,test
+P003244,Nobody answered my questions and the staff seemed annoyed.,0,Communication problems,5,12,Surgery,test
+P003245,I waited four months for a specialist appointment that was cancelled. I will escalate this to the health ministry if needed.,2,Management problems,5,1,Emergency,test
+P003246,They overcharged me for services I never received. I have witnesses who can confirm this.,2,Management problems,1,6,Pediatrics,test
+P003247,I asked for an interpreter but the staff mocked my request.,0,Communication problems,3,7,Pediatrics,test
+P003248,The hospital lawyer threatened me for posting an honest review.,3,Responsibility concerns,2,8,Surgery,test
+P003249,The dentist pulled the wrong tooth and damaged the healthy one.,1,Diagnosis/Treatment issues,5,1,Pediatrics,test
+P003250,There is only one toilet for forty patients on this floor. This happened during my visit last week.,2,Management problems,1,7,Emergency,test
+P003251,The air conditioning was broken and the ward was unbearable. I have photos and documents as evidence.,2,Management problems,3,2,Pediatrics,test
+P003252,Wheelchairs are all broken and no porter is ever available. I have photos and documents as evidence.,2,Management problems,2,8,Internal,test
+P003253,The biopsy sample was lost and my treatment was delayed months. I expect a formal written response.,1,Diagnosis/Treatment issues,3,8,Radiology,test
+P003254,"After the incident, no manager would meet me or apologize. The laboratory lost my blood sample twice in one week.",3,Responsibility concerns,3,5,Surgery,test
+P003255,Staff refused to speak slowly even though I am hard of hearing.,0,Communication problems,5,10,Surgery,test
+P003256,I was scolded for crying during a painful dressing change. I am filing this complaint on behalf of my father.,0,Communication problems,4,8,Pediatrics,test
+P003257,My baby received an adult dose of vaccine by mistake.,1,Diagnosis/Treatment issues,4,8,Surgery,test
+P003258,I was blamed for being sick when I asked for help walking. I trusted this hospital and I feel betrayed.,0,Communication problems,1,11,Emergency,test
+P003259,My stroke symptoms were sent home as migraine twice. No incident number was given so my case officially never existed. Please investigate this matter urgently.,1,Diagnosis/Treatment issues,1,11,Radiology,test
+P003260,The same faulty machine injured patients for months with no recall. Communication was terrible; I never knew what would happen next.,3,Responsibility concerns,1,7,Pediatrics,test
+P003261,The head nurse said mistakes happen and walked away. This happened during my visit last week.,3,Responsibility concerns,5,12,Radiology,test
+P003262,My fracture was missed on the X-ray and discovered weeks later. This should never happen to any patient again.,1,Diagnosis/Treatment issues,4,2,Surgery,test
+P003263,The eye injection was done incorrectly and damaged my vision.,1,Diagnosis/Treatment issues,3,11,Pediatrics,test
+P003264,Staff attitude was unacceptable; nobody explained the waiting time. My family is very upset about this incident.,0,Communication problems,5,12,Radiology,test
+P003265,The doctor laughed when I mentioned my fear of the procedure. I am filing this complaint on behalf of my father.,0,Communication problems,3,10,Internal,test
+P003266,Nobody answered my questions and the staff seemed annoyed. They confused my lab results with another patient and mistreated me.,0,Communication problems,3,2,Pediatrics,test
+P003267,I felt humiliated by the way the physician spoke to me. I want an apology and corrective action.,0,Communication problems,4,11,Radiology,test
+P003268,Nobody noticed my broken ribs on three separate visits. The hospital refused to share the incident report with my family. I want an apology and corrective action.,1,Diagnosis/Treatment issues,3,8,Pediatrics,test
+P003269,The night nurse threatened to remove my visitors for no reason.,0,Communication problems,3,11,Radiology,test
+P003270,Wrong insulin dose sent me to the emergency room the same night. I expect a formal written response.,1,Diagnosis/Treatment issues,5,9,Surgery,test
+P003271,The receptionist hung up on me three times when I called.,0,Communication problems,2,6,Internal,test
+P003272,No doctor was present during the entire night shift.,2,Management problems,3,7,Emergency,test
+P003273,Discharge medicines were missing half the prescribed items.,2,Management problems,3,1,Surgery,test
+P003274,I asked for an interpreter but the staff mocked my request.,0,Communication problems,5,1,Emergency,test
+P003275,My appendicitis was dismissed as stomach flu until it ruptured.,1,Diagnosis/Treatment issues,3,11,Pediatrics,test
+P003276,The staff spoke about me as if I was not in the room. The surgery was performed on the wrong site and had to be repeated.,0,Communication problems,3,10,Emergency,test
+P003277,The intensive care unit had no free ventilator when I needed one.,2,Management problems,5,6,Radiology,test
+P003278,The air conditioning was broken and the ward was unbearable.,2,Management problems,2,7,Internal,test
+P003279,Nurses scolded me for asking for pain relief twice.,0,Communication problems,1,6,Pediatrics,test
+P003280,I felt humiliated by the way the physician spoke to me.,0,Communication problems,2,5,Pediatrics,test
+P003281,The biopsy sample was lost and my treatment was delayed months. The doctor spent less than a minute with me and walked away.,1,Diagnosis/Treatment issues,3,3,Emergency,test
+P003282,The doctor discussed my private condition loudly in the corridor.,0,Communication problems,5,1,Internal,test
+P003283,Staff were never retrained after the serious safety incident.,3,Responsibility concerns,1,11,Radiology,test
+P003284,Risk management closed my case without interviewing me. This is not the first time this has happened to me.,3,Responsibility concerns,2,10,Emergency,test
+P003285,The same faulty machine injured patients for months with no recall. The elevator was broken and my wheelchair could not reach the clinic.,3,Responsibility concerns,1,4,Emergency,test
+P003286,Internal review cleared everyone without speaking to a single patient. The nurse rolled her eyes when I described my symptoms.,3,Responsibility concerns,3,1,Internal,test
+P003287,The complaint office itself never answers its own phone.,2,Management problems,2,4,Surgery,test
+P003288,Nurses scolded me for asking for pain relief twice. Ambulance took two hours to arrive after my father's heart attack.,0,Communication problems,3,8,Pediatrics,test
+P003289,I was discharged with complications and nobody accepted the blame.,3,Responsibility concerns,2,3,Surgery,test
+P003290,The hospital food was expired and several patients got sick.,2,Management problems,5,11,Surgery,test
+P003291,Nobody supervised the trainee who performed my procedure alone. My family is very upset about this incident.,3,Responsibility concerns,3,4,Surgery,test
+P003292,The laboratory lost my blood sample twice in one week. I was blamed for being sick when I asked for help walking. I have witnesses who can confirm this.,2,Management problems,1,6,Emergency,test
+P003293,My appendicitis was dismissed as stomach flu until it ruptured. My family is very upset about this incident.,1,Diagnosis/Treatment issues,2,1,Emergency,test
+P003294,The hospital food was expired and several patients got sick.,2,Management problems,3,8,Emergency,test
+P003295,Communication was terrible; I never knew what would happen next.,0,Communication problems,3,7,Emergency,test
+P003296,They confused my lab results with another patient and mistreated me. Please investigate this matter urgently.,1,Diagnosis/Treatment issues,2,12,Surgery,test
+P003297,Hospital parking and admission queues are completely unmanaged. This should never happen to any patient again.,2,Management problems,2,8,Surgery,test
+P003298,They pressured me to withdraw my complaint against the clinic.,3,Responsibility concerns,2,8,Emergency,test
+P003299,Nurses scolded me for asking for pain relief twice. I have witnesses who can confirm this.,0,Communication problems,3,12,Pediatrics,test
+P003300,Nobody supervised the trainee who performed my procedure alone. Staff were gossiping instead of attending to patients in the ward.,3,Responsibility concerns,5,12,Pediatrics,test
+P003301,Visiting hours change daily and nobody informs the families. I expect a formal written response.,2,Management problems,3,4,Internal,test
+P003302,Wheelchairs are all broken and no porter is ever available.,2,Management problems,1,6,Pediatrics,test
+P003303,My appendicitis was dismissed as stomach flu until it ruptured.,1,Diagnosis/Treatment issues,2,8,Pediatrics,test
+P003304,A sponge was left inside me after the operation. This should never happen to any patient again.,1,Diagnosis/Treatment issues,5,5,Emergency,test
+P003305,Risk management closed my case without interviewing me. This happened during my visit last week.,3,Responsibility concerns,1,1,Emergency,test
+P003306,Online booking never works and the phone line is always busy. I am filing this complaint on behalf of my father.,2,Management problems,1,1,Emergency,test
+P003307,The hospital food was expired and several patients got sick.,2,Management problems,4,6,Surgery,test
+P003308,The hospital bus never follows the announced timetable.,2,Management problems,2,4,Radiology,test
+P003309,Each department blamed the other and nothing was ever fixed. The eye injection was done incorrectly and damaged my vision.,3,Responsibility concerns,5,2,Internal,test
+P003310,My request for a second opinion was blocked by the same doctor.,3,Responsibility concerns,4,10,Surgery,test
+P003311,They offered me money quietly instead of fixing the real problem.,3,Responsibility concerns,4,7,Pediatrics,test
+P003312,The allergy test was misread and I was exposed to the allergen. I was transferred to another hospital just to silence my complaint. The whole experience was extremely distressing.,1,Diagnosis/Treatment issues,5,1,Internal,test
+P003313,I was given blood from the wrong group and nearly died. This should never happen to any patient again.,1,Diagnosis/Treatment issues,3,11,Internal,test
+P003314,Discharge papers took two days while I kept paying for the bed.,2,Management problems,4,5,Surgery,test
+P003315,The ethics committee never replied to any of my three letters. I expect a formal written response.,3,Responsibility concerns,1,9,Internal,test
+P003316,My request for a second opinion was blocked by the same doctor. I have witnesses who can confirm this.,3,Responsibility concerns,1,1,Pediatrics,test
+P003317,My stroke symptoms were sent home as migraine twice.,1,Diagnosis/Treatment issues,2,2,Internal,test
+P003318,A sponge was left inside me after the operation.,1,Diagnosis/Treatment issues,1,8,Radiology,test
+P003319,I felt humiliated by the way the physician spoke to me.,0,Communication problems,5,7,Pediatrics,test
+P003320,Chemotherapy dosage was miscalculated and poisoned my kidneys. Doctors changed my file after I complained about the error.,1,Diagnosis/Treatment issues,1,1,Surgery,test
+P003321,The pharmacy had no stock of my prescribed medicine for weeks. I have photos and documents as evidence.,2,Management problems,4,1,Pediatrics,test
+P003322,The head nurse said mistakes happen and walked away. No doctor was present during the entire night shift. I will escalate this to the health ministry if needed.,3,Responsibility concerns,1,10,Internal,test
+P003323,The hospital blamed my age instead of their missed diagnosis.,3,Responsibility concerns,2,9,Internal,test
+P003324,The night nurse threatened to remove my visitors for no reason.,0,Communication problems,2,7,Pediatrics,test
+P003325,A sponge was left inside me after the operation.,1,Diagnosis/Treatment issues,5,3,Surgery,test
+P003326,The biopsy sample was lost and my treatment was delayed months.,1,Diagnosis/Treatment issues,4,2,Pediatrics,test
+P003327,Staff attitude was unacceptable; nobody explained the waiting time. My family is very upset about this incident.,0,Communication problems,1,12,Pediatrics,test
+P003328,Online booking never works and the phone line is always busy.,2,Management problems,3,10,Radiology,test
+P003329,The nurse rolled her eyes when I described my symptoms.,0,Communication problems,1,12,Pediatrics,test
+P003330,Communication was terrible; I never knew what would happen next.,0,Communication problems,3,5,Pediatrics,test
+P003331,Security guards treated patients like criminals at the entrance. I have witnesses who can confirm this.,0,Communication problems,2,8,Surgery,test
+P003332,Ambulance took two hours to arrive after my father's heart attack. My family is very upset about this incident.,2,Management problems,2,7,Pediatrics,test
+P003333,Accountability is zero; the same error happened to my neighbor. My family is very upset about this incident.,3,Responsibility concerns,4,1,Emergency,test
+P003334,The biopsy sample was lost and my treatment was delayed months. I want an apology and corrective action.,1,Diagnosis/Treatment issues,2,5,Pediatrics,test
+P003335,Each department blamed the other and nothing was ever fixed.,3,Responsibility concerns,3,3,Surgery,test
+P003336,My appointment was postponed three times without any explanation. I have witnesses who can confirm this.,2,Management problems,4,3,Internal,test
+P003337,A sponge was left inside me after the operation. I am filing this complaint on behalf of my father.,1,Diagnosis/Treatment issues,5,5,Radiology,test
+P003338,My allergy to penicillin was ignored and I went into shock. Accountability is zero; the same error happened to my neighbor.,1,Diagnosis/Treatment issues,5,2,Internal,test
+P003339,Accountability is zero; the same error happened to my neighbor. The hospital food was expired and several patients got sick.,3,Responsibility concerns,3,1,Pediatrics,test
+P003340,Discharge medicines were missing half the prescribed items.,2,Management problems,4,4,Radiology,test
+P003341,The cast was too tight and cut off circulation to my foot. My family is very upset about this incident.,1,Diagnosis/Treatment issues,4,11,Pediatrics,test
+P003342,There is only one toilet for forty patients on this floor. I will escalate this to the health ministry if needed.,2,Management problems,5,9,Surgery,test
+P003343,The complaint office itself never answers its own phone. My allergy to penicillin was ignored and I went into shock. I will escalate this to the health ministry if needed.,2,Management problems,2,1,Internal,test
+P003344,Ambulance took two hours to arrive after my father's heart attack. Please investigate this matter urgently.,2,Management problems,5,9,Pediatrics,test
+P003345,The emergency room wait took nine hours with no triage update. The allergy test was misread and I was exposed to the allergen. My family is very upset about this incident.,2,Management problems,4,6,Surgery,test
+P003346,Management admitted the fault verbally but denied it in writing. I paid for a private room but was placed in a shared ward. I will escalate this to the health ministry if needed.,3,Responsibility concerns,3,7,Internal,test
+P003347,Discharge medicines were missing half the prescribed items.,2,Management problems,5,9,Radiology,test
+P003348,The surgeon was arrogant and refused to explain the risks. I expect a formal written response.,0,Communication problems,2,9,Emergency,test
+P003349,Nobody noticed my broken ribs on three separate visits. This should never happen to any patient again.,1,Diagnosis/Treatment issues,1,12,Emergency,test
+P003350,Security guards treated patients like criminals at the entrance. This should never happen to any patient again.,0,Communication problems,1,1,Pediatrics,test
+P003351,Nobody answered my questions and the staff seemed annoyed.,0,Communication problems,5,6,Radiology,test
+P003352,The pharmacist refused to explain how to take my pills.,0,Communication problems,3,9,Surgery,test
+P003353,Staff were gossiping instead of attending to patients in the ward. This should never happen to any patient again.,0,Communication problems,3,8,Pediatrics,test
+P003354,The radiologist missed the blood clot clearly visible on the scan. The laboratory lost my blood sample twice in one week. I am filing this complaint on behalf of my father.,1,Diagnosis/Treatment issues,2,10,Radiology,test
+P003355,Nurses scolded me for asking for pain relief twice. They pressured me to withdraw my complaint against the clinic. I will escalate this to the health ministry if needed.,0,Communication problems,3,5,Internal,test
+P003356,My surgery was cancelled twice because the room was double-booked.,2,Management problems,4,5,Emergency,test
+P003357,The doctor did not listen to my concerns and interrupted me constantly.,0,Communication problems,1,12,Radiology,test
+P003358,Internal review cleared everyone without speaking to a single patient.,3,Responsibility concerns,3,2,Surgery,test
+P003359,The biopsy sample was lost and my treatment was delayed months. I was scolded for crying during a painful dressing change. This happened during my visit last week.,1,Diagnosis/Treatment issues,5,3,Internal,test
+P003360,The surgery was performed on the wrong site and had to be repeated.,1,Diagnosis/Treatment issues,2,12,Internal,test
+P003361,The treatment did not follow the guidelines and my condition worsened. My formal complaint was ignored for six months without a reply.,1,Diagnosis/Treatment issues,4,3,Internal,test
+P003362,Communication was terrible; I never knew what would happen next. I will escalate this to the health ministry if needed.,0,Communication problems,3,4,Internal,test
+P003363,Communication was terrible; I never knew what would happen next. Please investigate this matter urgently.,0,Communication problems,3,6,Surgery,test
+P003364,The doctor did not listen to my concerns and interrupted me constantly.,0,Communication problems,1,12,Surgery,test
+P003365,My referral letter expired while waiting for an authorization code. I will escalate this to the health ministry if needed.,2,Management problems,2,3,Emergency,test
+P003366,The surgery was performed on the wrong site and had to be repeated. I am filing this complaint on behalf of my father.,1,Diagnosis/Treatment issues,2,8,Pediatrics,test
+P003367,The staff spoke about me as if I was not in the room. This is not the first time this has happened to me.,0,Communication problems,5,6,Radiology,test
+P003368,Nobody supervised the trainee who performed my procedure alone. I want an apology and corrective action.,3,Responsibility concerns,4,1,Radiology,test
+P003369,Hospital corridors are filthy and smell of smoke. I was misdiagnosed twice before they found the real infection. I expect a formal written response.,2,Management problems,2,7,Radiology,test
+P003370,Online booking never works and the phone line is always busy. This is not the first time this has happened to me.,2,Management problems,2,9,Pediatrics,test
+P003371,Discharge medicines were missing half the prescribed items. My baby received an adult dose of vaccine by mistake. My family is very upset about this incident.,2,Management problems,2,4,Emergency,test
+P003372,They confused my lab results with another patient and mistreated me. I am filing this complaint on behalf of my father.,1,Diagnosis/Treatment issues,5,3,Internal,test
+P003373,Wheelchairs are all broken and no porter is ever available. Nurses scolded me for asking for pain relief twice. I am filing this complaint on behalf of my father.,2,Management problems,5,2,Emergency,test
+P003374,Chemotherapy dosage was miscalculated and poisoned my kidneys.,1,Diagnosis/Treatment issues,2,5,Surgery,test
+P003375,Discharge papers took two days while I kept paying for the bed.,2,Management problems,1,11,Pediatrics,test
+P003376,The doctor laughed when I mentioned my fear of the procedure. Someone must be held accountable for this.,0,Communication problems,2,3,Internal,test
+P003377,No one introduced themselves or told me their role in my care.,0,Communication problems,5,8,Internal,test
+P003378,Nobody noticed my broken ribs on three separate visits.,1,Diagnosis/Treatment issues,4,11,Internal,test
+P003379,My appointment was postponed three times without any explanation.,2,Management problems,2,1,Emergency,test
+P003380,Discharge papers took two days while I kept paying for the bed.,2,Management problems,2,6,Pediatrics,test
+P003381,Wrong insulin dose sent me to the emergency room the same night.,1,Diagnosis/Treatment issues,5,4,Emergency,test
+P003382,Staff refused to speak slowly even though I am hard of hearing. Please investigate this matter urgently.,0,Communication problems,2,6,Radiology,test
+P003383,They overcharged me for services I never received.,2,Management problems,1,8,Internal,test
+P003384,No doctor was present during the entire night shift.,2,Management problems,5,5,Emergency,test
+P003385,I developed an infection because instruments were not sterilized. I want an apology and corrective action.,1,Diagnosis/Treatment issues,4,5,Pediatrics,test
+P003386,The hospital refused to share the incident report with my family.,3,Responsibility concerns,4,12,Surgery,test
+P003387,Nobody noticed my broken ribs on three separate visits.,1,Diagnosis/Treatment issues,4,2,Pediatrics,test
+P003388,"After the incident, no manager would meet me or apologize. My stroke symptoms were sent home as migraine twice. My family is very upset about this incident.",3,Responsibility concerns,3,4,Radiology,test
+P003389,The pharmacy had no stock of my prescribed medicine for weeks. This is not the first time this has happened to me.,2,Management problems,1,3,Emergency,test
+P003390,I asked for an interpreter but the staff mocked my request.,0,Communication problems,4,12,Pediatrics,test
+P003391,Hospital corridors are filthy and smell of smoke.,2,Management problems,3,5,Surgery,test
+P003392,The triage nurse ignored my pain and told me to wait silently. I am filing this complaint on behalf of my father.,0,Communication problems,5,12,Radiology,test
+P003393,There is only one toilet for forty patients on this floor. My compensation claim has been pending for over two years.,2,Management problems,4,11,Internal,test
+P003394,Staff were never retrained after the serious safety incident. The midwife was rough and showed no empathy during labor.,3,Responsibility concerns,2,1,Internal,test
+P003395,They overcharged me for services I never received. The cast was too tight and cut off circulation to my foot.,2,Management problems,4,8,Emergency,test
+P003396,The surgery was performed on the wrong site and had to be repeated.,1,Diagnosis/Treatment issues,3,10,Surgery,test
+P003397,"The ward was dirty, overcrowded and the bathroom had no water. The hospital lawyer threatened me for posting an honest review. Someone must be held accountable for this.",2,Management problems,2,1,Surgery,test
+P003398,The doctor did not listen to my concerns and interrupted me constantly. The eye injection was done incorrectly and damaged my vision. This happened during my visit last week.,0,Communication problems,1,9,Pediatrics,test
+P003399,They pressured me to withdraw my complaint against the clinic. I asked for an interpreter but the staff mocked my request. I have witnesses who can confirm this.,3,Responsibility concerns,1,10,Radiology,test
+P003400,The laboratory lost my blood sample twice in one week. The doctor discussed my private condition loudly in the corridor. This is not the first time this has happened to me.,2,Management problems,4,8,Pediatrics,test
+P003401,Chemotherapy dosage was miscalculated and poisoned my kidneys. My surgery was cancelled twice because the room was double-booked. This happened during my visit last week.,1,Diagnosis/Treatment issues,3,12,Emergency,test
+P003402,"After the incident, no manager would meet me or apologize. I am filing this complaint on behalf of my father.",3,Responsibility concerns,2,1,Emergency,test
+P003403,No doctor was present during the entire night shift.,2,Management problems,5,4,Surgery,test
+P003404,The complaint office itself never answers its own phone.,2,Management problems,2,3,Radiology,test
+P003405,The follow-up scan was never ordered and the tumor kept growing.,1,Diagnosis/Treatment issues,2,8,Radiology,test
+P003406,My appointment was postponed three times without any explanation. Someone must be held accountable for this.,2,Management problems,1,3,Emergency,test
+P003407,No one followed up after my surgery complications were reported. This is not the first time this has happened to me.,3,Responsibility concerns,2,6,Internal,test
+P003408,Wrong insulin dose sent me to the emergency room the same night.,1,Diagnosis/Treatment issues,2,2,Surgery,test
+P003409,The nurse was rude and dismissive when I asked about my medication.,0,Communication problems,3,5,Pediatrics,test
+P003410,Hospital corridors are filthy and smell of smoke. I trusted this hospital and I feel betrayed.,2,Management problems,2,1,Internal,test
+P003411,"After the incident, no manager would meet me or apologize. The dentist pulled the wrong tooth and damaged the healthy one. This should never happen to any patient again.",3,Responsibility concerns,2,2,Internal,test
+P003412,The supervisor promised an investigation that never happened. I will escalate this to the health ministry if needed.,3,Responsibility concerns,3,4,Emergency,test
+P003413,My formal complaint was ignored for six months without a reply.,3,Responsibility concerns,1,9,Pediatrics,test
+P003414,My fracture was missed on the X-ray and discovered weeks later. This is not the first time this has happened to me.,1,Diagnosis/Treatment issues,4,3,Surgery,test
+P003415,The nurse rolled her eyes when I described my symptoms. The doctor prescribed a drug that interacts badly with my heart pills.,0,Communication problems,5,10,Radiology,test
+P003416,They confused my lab results with another patient and mistreated me. Please investigate this matter urgently.,1,Diagnosis/Treatment issues,4,10,Surgery,test
+P003417,The doctor laughed when I mentioned my fear of the procedure.,0,Communication problems,2,9,Emergency,test
+P003418,The receptionist shouted at my elderly mother in front of everyone. I will escalate this to the health ministry if needed.,0,Communication problems,1,8,Surgery,test
+P003419,The doctor discussed my private condition loudly in the corridor. I am filing this complaint on behalf of my father.,0,Communication problems,2,1,Pediatrics,test
+P003420,Visiting hours change daily and nobody informs the families.,2,Management problems,2,3,Surgery,test
+P003421,The doctor discussed my private condition loudly in the corridor. Please investigate this matter urgently.,0,Communication problems,3,12,Internal,test
+P003422,I was misdiagnosed twice before they found the real infection.,1,Diagnosis/Treatment issues,1,10,Internal,test
+P003423,The surgeon was arrogant and refused to explain the risks. This should never happen to any patient again.,0,Communication problems,3,9,Surgery,test
+P003424,Hospital corridors are filthy and smell of smoke. I expect a formal written response.,2,Management problems,4,8,Radiology,test
+P003425,Communication was terrible; I never knew what would happen next. I was transferred to another hospital just to silence my complaint.,0,Communication problems,5,3,Emergency,test
+P003426,The emergency room wait took nine hours with no triage update. The same faulty machine injured patients for months with no recall. This should never happen to any patient again.,2,Management problems,5,10,Pediatrics,test
+P003427,My compensation claim has been pending for over two years.,3,Responsibility concerns,5,11,Surgery,test
+P003428,The complaint office itself never answers its own phone. Someone must be held accountable for this.,2,Management problems,4,5,Pediatrics,test
+P003429,The midwife was rough and showed no empathy during labor.,0,Communication problems,5,1,Internal,test
+P003430,My stroke symptoms were sent home as migraine twice.,1,Diagnosis/Treatment issues,2,1,Radiology,test
+P003431,Chemotherapy dosage was miscalculated and poisoned my kidneys.,1,Diagnosis/Treatment issues,5,12,Internal,test
+P003432,My referral letter expired while waiting for an authorization code. This is not the first time this has happened to me.,2,Management problems,2,10,Surgery,test
+P003433,The intensive care unit had no free ventilator when I needed one.,2,Management problems,2,12,Internal,test
+P003434,No one followed up after my surgery complications were reported. My medical records were lost and I had to redo all the tests.,3,Responsibility concerns,5,5,Pediatrics,test
+P003435,The doctor discussed my private condition loudly in the corridor. I am filing this complaint on behalf of my father.,0,Communication problems,4,6,Radiology,test
+P003436,Communication was terrible; I never knew what would happen next. I trusted this hospital and I feel betrayed.,0,Communication problems,1,4,Internal,test
+P003437,Discharge papers took two days while I kept paying for the bed. I trusted this hospital and I feel betrayed.,2,Management problems,1,10,Radiology,test
+P003438,The emergency room wait took nine hours with no triage update.,2,Management problems,3,5,Emergency,test
+P003439,The doctor discussed my private condition loudly in the corridor. I am filing this complaint on behalf of my father.,0,Communication problems,4,11,Internal,test
+P003440,The treatment did not follow the guidelines and my condition worsened.,1,Diagnosis/Treatment issues,4,12,Pediatrics,test
+P003441,The surgery was performed on the wrong site and had to be repeated. I have witnesses who can confirm this.,1,Diagnosis/Treatment issues,4,10,Surgery,test
+P003442,Staff were never retrained after the serious safety incident.,3,Responsibility concerns,5,12,Radiology,test
+P003443,They offered me money quietly instead of fixing the real problem. I have photos and documents as evidence.,3,Responsibility concerns,3,8,Radiology,test
+P003444,Nobody noticed my broken ribs on three separate visits. My surgery was cancelled twice because the room was double-booked. I have photos and documents as evidence.,1,Diagnosis/Treatment issues,1,9,Radiology,test
+P003445,The pharmacist refused to explain how to take my pills.,0,Communication problems,1,11,Internal,test
+P003446,Accountability is zero; the same error happened to my neighbor.,3,Responsibility concerns,5,11,Emergency,test
+P003447,Communication was terrible; I never knew what would happen next. Someone must be held accountable for this.,0,Communication problems,4,11,Internal,test
+P003448,A delayed cancer diagnosis cost me months of valuable treatment time.,1,Diagnosis/Treatment issues,5,9,Surgery,test
+P003449,I was discharged with untreated pneumonia and collapsed at home.,1,Diagnosis/Treatment issues,4,10,Radiology,test
+P003450,No incident number was given so my case officially never existed. The whole experience was extremely distressing.,3,Responsibility concerns,3,10,Surgery,test
+P003451,The doctor did not listen to my concerns and interrupted me constantly. Please investigate this matter urgently.,0,Communication problems,1,7,Radiology,test
+P003452,Each department blamed the other and nothing was ever fixed. The prescribed dosage was wrong and caused severe side effects. I expect a formal written response.,3,Responsibility concerns,4,5,Internal,test
+P003453,The surgeon was arrogant and refused to explain the risks.,0,Communication problems,2,2,Radiology,test
+P003454,The eye injection was done incorrectly and damaged my vision.,1,Diagnosis/Treatment issues,4,7,Pediatrics,test
+P003455,I received another patient's medication because labels were swapped.,1,Diagnosis/Treatment issues,2,8,Internal,test
+P003456,No one followed up after my surgery complications were reported. I expect a formal written response.,3,Responsibility concerns,3,3,Pediatrics,test
+P003457,Wrong insulin dose sent me to the emergency room the same night. My family is very upset about this incident.,1,Diagnosis/Treatment issues,1,12,Surgery,test
+P003458,My fracture was missed on the X-ray and discovered weeks later.,1,Diagnosis/Treatment issues,1,3,Radiology,test
+P003459,Visiting hours change daily and nobody informs the families. The whole experience was extremely distressing.,2,Management problems,3,6,Pediatrics,test
+P003460,My appointment was postponed three times without any explanation.,2,Management problems,3,11,Emergency,test
+P003461,Staff denied everything even though witnesses confirmed my story. The billing office sent my invoice to a stranger's address. I trusted this hospital and I feel betrayed.,3,Responsibility concerns,2,9,Emergency,test
+P003462,Discharge medicines were missing half the prescribed items. My family is very upset about this incident.,2,Management problems,5,10,Surgery,test
+P003463,The hospital food was expired and several patients got sick.,2,Management problems,4,9,Internal,test
+P003464,I was misdiagnosed twice before they found the real infection. I was discharged with complications and nobody accepted the blame.,1,Diagnosis/Treatment issues,2,2,Emergency,test
+P003465,Doctors changed my file after I complained about the error. This should never happen to any patient again.,3,Responsibility concerns,1,5,Pediatrics,test
+P003466,The midwife was rough and showed no empathy during labor. I want an apology and corrective action.,0,Communication problems,5,9,Radiology,test
+P003467,Nobody noticed my broken ribs on three separate visits.,1,Diagnosis/Treatment issues,5,11,Internal,test
+P003468,I received another patient's medication because labels were swapped. My family is very upset about this incident.,1,Diagnosis/Treatment issues,1,11,Surgery,test
+P003469,The allergy test was misread and I was exposed to the allergen. The elevator was broken and my wheelchair could not reach the clinic. I am filing this complaint on behalf of my father.,1,Diagnosis/Treatment issues,1,7,Surgery,test
+P003470,I received another patient's medication because labels were swapped. I trusted this hospital and I feel betrayed.,1,Diagnosis/Treatment issues,4,6,Emergency,test
+P003471,"After the incident, no manager would meet me or apologize.",3,Responsibility concerns,5,6,Pediatrics,test
+P003472,The prescribed dosage was wrong and caused severe side effects.,1,Diagnosis/Treatment issues,5,4,Pediatrics,test
+P003473,The radiologist missed the blood clot clearly visible on the scan. I will escalate this to the health ministry if needed.,1,Diagnosis/Treatment issues,5,8,Radiology,test
+P003474,The hospital blamed my age instead of their missed diagnosis.,3,Responsibility concerns,4,3,Radiology,test
+P003475,The hospital lawyer threatened me for posting an honest review. I have photos and documents as evidence.,3,Responsibility concerns,5,9,Emergency,test
+P003476,Hospital parking and admission queues are completely unmanaged.,2,Management problems,5,11,Radiology,test
+P003477,Staff refused to speak slowly even though I am hard of hearing. My family is very upset about this incident.,0,Communication problems,1,10,Surgery,test
+P003478,Discharge medicines were missing half the prescribed items. Please investigate this matter urgently.,2,Management problems,3,3,Internal,test
+P003479,The prescribed dosage was wrong and caused severe side effects.,1,Diagnosis/Treatment issues,3,3,Radiology,test
+P003480,The contraceptive implant was placed wrongly and failed. The whole experience was extremely distressing.,1,Diagnosis/Treatment issues,2,10,Internal,test
+P003481,The hospital bus never follows the announced timetable. I trusted this hospital and I feel betrayed.,2,Management problems,2,2,Radiology,test
+P003482,No doctor was present during the entire night shift. I trusted this hospital and I feel betrayed.,2,Management problems,5,11,Pediatrics,test
+P003483,My fracture was missed on the X-ray and discovered weeks later. This should never happen to any patient again.,1,Diagnosis/Treatment issues,3,8,Pediatrics,test
+P003484,My appointment was postponed three times without any explanation.,2,Management problems,2,8,Radiology,test
+P003485,Chemotherapy dosage was miscalculated and poisoned my kidneys. This is not the first time this has happened to me.,1,Diagnosis/Treatment issues,4,12,Internal,test
+P003486,The follow-up scan was never ordered and the tumor kept growing.,1,Diagnosis/Treatment issues,3,11,Surgery,test
+P003487,My baby received an adult dose of vaccine by mistake. The whole experience was extremely distressing.,1,Diagnosis/Treatment issues,5,4,Emergency,test
+P003488,The pharmacist refused to explain how to take my pills. I have photos and documents as evidence.,0,Communication problems,4,1,Radiology,test
+P003489,Doctors changed my file after I complained about the error.,3,Responsibility concerns,3,7,Radiology,test
+P003490,Nobody told me the test results; I heard them by accident.,0,Communication problems,1,1,Pediatrics,test
+P003491,The surgeon was arrogant and refused to explain the risks.,0,Communication problems,4,5,Radiology,test
+P003492,I was given blood from the wrong group and nearly died. I want an apology and corrective action.,1,Diagnosis/Treatment issues,2,6,Internal,test
+P003493,The clinic opens late every morning with a huge crowd outside. This is not the first time this has happened to me.,2,Management problems,1,7,Radiology,test
+P003494,The prescribed dosage was wrong and caused severe side effects. I asked for an interpreter but the staff mocked my request.,1,Diagnosis/Treatment issues,4,1,Pediatrics,test
+P003495,The surgeon was arrogant and refused to explain the risks. This should never happen to any patient again.,0,Communication problems,2,9,Surgery,test
+P003496,I was blamed for being sick when I asked for help walking. I have witnesses who can confirm this.,0,Communication problems,4,4,Internal,test
+P003497,Hospital corridors are filthy and smell of smoke.,2,Management problems,3,7,Radiology,test
+P003498,Nobody took responsibility for the mistake in my treatment plan. Nurses scolded me for asking for pain relief twice. This happened during my visit last week.,3,Responsibility concerns,1,2,Surgery,test
+P003499,The ethics committee never replied to any of my three letters. I was discharged with untreated pneumonia and collapsed at home. This happened during my visit last week.,3,Responsibility concerns,1,6,Radiology,test
+P003500,The surgeon was arrogant and refused to explain the risks. I am filing this complaint on behalf of my father.,0,Communication problems,3,1,Emergency,test
+P003501,Hospital corridors are filthy and smell of smoke.,2,Management problems,2,1,Pediatrics,test
+P003502,Nobody told me the test results; I heard them by accident.,0,Communication problems,4,9,Pediatrics,test
+P003503,Discharge medicines were missing half the prescribed items.,2,Management problems,4,4,Radiology,test
+P003504,The doctor did not listen to my concerns and interrupted me constantly.,0,Communication problems,5,9,Pediatrics,test
+P003505,No one introduced themselves or told me their role in my care.,0,Communication problems,5,3,Radiology,test
+P003506,The radiologist missed the blood clot clearly visible on the scan.,1,Diagnosis/Treatment issues,3,11,Surgery,test
+P003507,The hospital bus never follows the announced timetable. My family is very upset about this incident.,2,Management problems,2,5,Surgery,test
+P003508,I was discharged with untreated pneumonia and collapsed at home. I want an apology and corrective action.,1,Diagnosis/Treatment issues,5,10,Emergency,test
+P003509,The contraceptive implant was placed wrongly and failed. Staff attitude was unacceptable; nobody explained the waiting time. My family is very upset about this incident.,1,Diagnosis/Treatment issues,3,12,Radiology,test
+P003510,The biopsy sample was lost and my treatment was delayed months.,1,Diagnosis/Treatment issues,3,6,Internal,test
+P003511,Visiting hours change daily and nobody informs the families. This is not the first time this has happened to me.,2,Management problems,5,10,Internal,test
+P003512,The staff spoke about me as if I was not in the room. My family is very upset about this incident.,0,Communication problems,2,6,Emergency,test
+P003513,I waited four months for a specialist appointment that was cancelled.,2,Management problems,5,5,Pediatrics,test
+P003514,The head nurse said mistakes happen and walked away. Someone must be held accountable for this.,3,Responsibility concerns,3,2,Emergency,test
+P003515,Staff attitude was unacceptable; nobody explained the waiting time. This should never happen to any patient again.,0,Communication problems,2,7,Radiology,test
+P003516,My medical records were lost and I had to redo all the tests.,2,Management problems,3,12,Internal,test
+P003517,Nobody supervised the trainee who performed my procedure alone.,3,Responsibility concerns,5,2,Emergency,test
+P003518,The surgery was performed on the wrong site and had to be repeated. I asked for an interpreter but the staff mocked my request. This is not the first time this has happened to me.,1,Diagnosis/Treatment issues,5,5,Emergency,test
+P003519,My compensation claim has been pending for over two years.,3,Responsibility concerns,5,8,Internal,test
+P003520,Management admitted the fault verbally but denied it in writing. I want an apology and corrective action.,3,Responsibility concerns,3,6,Radiology,test
+P003521,My request for a second opinion was blocked by the same doctor. The whole experience was extremely distressing.,3,Responsibility concerns,3,6,Radiology,test
+P003522,The nurse rolled her eyes when I described my symptoms.,0,Communication problems,5,11,Pediatrics,test
+P003523,No incident number was given so my case officially never existed. Please investigate this matter urgently.,3,Responsibility concerns,4,7,Internal,test
+P003524,Management admitted the fault verbally but denied it in writing. The whole experience was extremely distressing.,3,Responsibility concerns,1,1,Internal,test
+P003525,"After the incident, no manager would meet me or apologize. The follow-up scan was never ordered and the tumor kept growing.",3,Responsibility concerns,3,6,Radiology,test
+P003526,No doctor was present during the entire night shift. Wrong insulin dose sent me to the emergency room the same night.,2,Management problems,3,11,Surgery,test
+P003527,Wrong insulin dose sent me to the emergency room the same night.,1,Diagnosis/Treatment issues,5,10,Internal,test
+P003528,The ethics committee never replied to any of my three letters. I am filing this complaint on behalf of my father.,3,Responsibility concerns,5,5,Internal,test
+P003529,The contraceptive implant was placed wrongly and failed. The receptionist hung up on me three times when I called. My family is very upset about this incident.,1,Diagnosis/Treatment issues,2,6,Radiology,test
+P003530,The doctor did not listen to my concerns and interrupted me constantly.,0,Communication problems,3,3,Surgery,test
+P003531,The surgery was performed on the wrong site and had to be repeated.,1,Diagnosis/Treatment issues,2,4,Pediatrics,test
+P003532,Nobody told me the test results; I heard them by accident. The billing office sent my invoice to a stranger's address. This happened during my visit last week.,0,Communication problems,5,8,Emergency,test
+P003533,The staff spoke about me as if I was not in the room. This is not the first time this has happened to me.,0,Communication problems,1,6,Internal,test
+P003534,The anesthesiologist made an error and I woke up during surgery. The nurse was rude and dismissive when I asked about my medication. This is not the first time this has happened to me.,1,Diagnosis/Treatment issues,4,6,Radiology,test
+P003535,No one followed up after my surgery complications were reported.,3,Responsibility concerns,1,12,Pediatrics,test
+P003536,I received another patient's medication because labels were swapped.,1,Diagnosis/Treatment issues,3,8,Surgery,test
+P003537,Staff refused to speak slowly even though I am hard of hearing. The radiologist missed the blood clot clearly visible on the scan.,0,Communication problems,1,9,Surgery,test
+P003538,My appendicitis was dismissed as stomach flu until it ruptured. I want an apology and corrective action.,1,Diagnosis/Treatment issues,5,9,Pediatrics,test
+P003539,The doctor laughed when I mentioned my fear of the procedure. I trusted this hospital and I feel betrayed.,0,Communication problems,3,11,Radiology,test
+P003540,My medical records were lost and I had to redo all the tests. This is not the first time this has happened to me.,2,Management problems,5,4,Pediatrics,test
+P003541,The ethics committee never replied to any of my three letters. I have photos and documents as evidence.,3,Responsibility concerns,2,1,Pediatrics,test
+P003542,A sponge was left inside me after the operation. I trusted this hospital and I feel betrayed.,1,Diagnosis/Treatment issues,5,3,Surgery,test
+P003543,"The ward was dirty, overcrowded and the bathroom had no water. I am filing this complaint on behalf of my father.",2,Management problems,3,11,Pediatrics,test
+P003544,The supervisor promised an investigation that never happened. I am filing this complaint on behalf of my father.,3,Responsibility concerns,2,6,Emergency,test
+P003545,A delayed cancer diagnosis cost me months of valuable treatment time. Nobody supervised the trainee who performed my procedure alone.,1,Diagnosis/Treatment issues,4,4,Internal,test
+P003546,I developed an infection because instruments were not sterilized. This happened during my visit last week.,1,Diagnosis/Treatment issues,2,4,Pediatrics,test
+P003547,The eye injection was done incorrectly and damaged my vision. I expect a formal written response.,1,Diagnosis/Treatment issues,5,12,Radiology,test
+P003548,The same faulty machine injured patients for months with no recall. I expect a formal written response.,3,Responsibility concerns,1,6,Emergency,test
+P003549,The head nurse said mistakes happen and walked away. Staff attitude was unacceptable; nobody explained the waiting time. I will escalate this to the health ministry if needed.,3,Responsibility concerns,3,12,Radiology,test
+P003550,The physician used offensive language during my examination.,0,Communication problems,5,11,Pediatrics,test
+P003551,Security guards treated patients like criminals at the entrance. I am filing this complaint on behalf of my father.,0,Communication problems,4,8,Radiology,test
+P003552,I was blamed for being sick when I asked for help walking. I am filing this complaint on behalf of my father.,0,Communication problems,1,8,Radiology,test
+P003553,The head nurse said mistakes happen and walked away.,3,Responsibility concerns,3,12,Radiology,test
+P003554,I felt humiliated by the way the physician spoke to me. The same faulty machine injured patients for months with no recall.,0,Communication problems,5,1,Pediatrics,test
+P003555,"The ward was dirty, overcrowded and the bathroom had no water.",2,Management problems,5,2,Radiology,test
+P003556,The night nurse threatened to remove my visitors for no reason. I want an apology and corrective action.,0,Communication problems,1,10,Pediatrics,test
+P003557,Management admitted the fault verbally but denied it in writing. The whole experience was extremely distressing.,3,Responsibility concerns,4,7,Emergency,test
+P003558,The follow-up scan was never ordered and the tumor kept growing. I want an apology and corrective action.,1,Diagnosis/Treatment issues,3,9,Pediatrics,test
+P003559,A sponge was left inside me after the operation.,1,Diagnosis/Treatment issues,5,8,Emergency,test
+P003560,The doctor did not listen to my concerns and interrupted me constantly.,0,Communication problems,2,1,Surgery,test
+P003561,A sponge was left inside me after the operation.,1,Diagnosis/Treatment issues,3,3,Internal,test
+P003562,Discharge medicines were missing half the prescribed items.,2,Management problems,5,5,Internal,test
+P003563,Security guards treated patients like criminals at the entrance.,0,Communication problems,2,11,Surgery,test
+P003564,Management admitted the fault verbally but denied it in writing.,3,Responsibility concerns,5,7,Surgery,test
+P003565,My formal complaint was ignored for six months without a reply.,3,Responsibility concerns,3,4,Emergency,test
+P003566,Discharge medicines were missing half the prescribed items.,2,Management problems,5,11,Internal,test
+P003567,My thyroid condition went untreated for years despite clear tests. I expect a formal written response.,1,Diagnosis/Treatment issues,5,10,Emergency,test
+P003568,The night nurse threatened to remove my visitors for no reason.,0,Communication problems,4,12,Surgery,test
+P003569,My fracture was missed on the X-ray and discovered weeks later.,1,Diagnosis/Treatment issues,1,7,Internal,test
+P003570,The supervisor promised an investigation that never happened. The whole experience was extremely distressing.,3,Responsibility concerns,4,9,Emergency,test
+P003571,The billing office sent my invoice to a stranger's address. The doctor did not listen to my concerns and interrupted me constantly.,2,Management problems,1,10,Internal,test
+P003572,Nobody told me the test results; I heard them by accident.,0,Communication problems,4,11,Internal,test
+P003573,Hospital corridors are filthy and smell of smoke. This happened during my visit last week.,2,Management problems,2,6,Pediatrics,test
+P003574,The elevator was broken and my wheelchair could not reach the clinic. This happened during my visit last week.,2,Management problems,2,4,Pediatrics,test
+P003575,My call button was ignored for over an hour last night.,0,Communication problems,3,1,Internal,test
+P003576,The receptionist hung up on me three times when I called.,0,Communication problems,2,11,Pediatrics,test
+P003577,The clinic deleted my negative feedback from their website. This happened during my visit last week.,3,Responsibility concerns,4,12,Internal,test
+P003578,The receptionist shouted at my elderly mother in front of everyone. I have witnesses who can confirm this.,0,Communication problems,5,6,Emergency,test
+P003579,Staff denied everything even though witnesses confirmed my story. This happened during my visit last week.,3,Responsibility concerns,2,10,Emergency,test
+P003580,My request for a second opinion was blocked by the same doctor. My family is very upset about this incident.,3,Responsibility concerns,3,11,Radiology,test
+P003581,The pharmacist refused to explain how to take my pills.,0,Communication problems,5,12,Surgery,test
+P003582,The prescribed dosage was wrong and caused severe side effects. I will escalate this to the health ministry if needed.,1,Diagnosis/Treatment issues,4,1,Internal,test
+P003583,The staff spoke about me as if I was not in the room. This happened during my visit last week.,0,Communication problems,2,12,Emergency,test
+P003584,No doctor was present during the entire night shift.,2,Management problems,2,8,Radiology,test
+P003585,The hospital lawyer threatened me for posting an honest review. This should never happen to any patient again.,3,Responsibility concerns,5,2,Emergency,test
+P003586,I received another patient's medication because labels were swapped. Visiting hours change daily and nobody informs the families.,1,Diagnosis/Treatment issues,5,3,Radiology,test
+P003587,Nobody answered my questions and the staff seemed annoyed. The whole experience was extremely distressing.,0,Communication problems,4,7,Surgery,test
+P003588,I was transferred to another hospital just to silence my complaint. The dentist pulled the wrong tooth and damaged the healthy one. Please investigate this matter urgently.,3,Responsibility concerns,1,12,Internal,test
+P003589,Management admitted the fault verbally but denied it in writing.,3,Responsibility concerns,5,8,Pediatrics,test
+P003590,I developed an infection because instruments were not sterilized. This should never happen to any patient again.,1,Diagnosis/Treatment issues,2,6,Pediatrics,test
+P003591,The surgeon was arrogant and refused to explain the risks.,0,Communication problems,2,12,Internal,test
+P003592,The clinic deleted my negative feedback from their website. Someone must be held accountable for this.,3,Responsibility concerns,5,10,Pediatrics,test
+P003593,The hospital bus never follows the announced timetable. I expect a formal written response.,2,Management problems,3,9,Surgery,test
+P003594,They overcharged me for services I never received. This is not the first time this has happened to me.,2,Management problems,1,10,Surgery,test
+P003595,The nurse was rude and dismissive when I asked about my medication.,0,Communication problems,3,2,Surgery,test
+P003596,Doctors changed my file after I complained about the error.,3,Responsibility concerns,5,10,Internal,test
+P003597,My appointment was postponed three times without any explanation.,2,Management problems,3,10,Emergency,test
+P003598,The consultant spoke only to my husband and never to me.,0,Communication problems,5,6,Emergency,test
+P003599,They pressured me to withdraw my complaint against the clinic.,3,Responsibility concerns,5,6,Internal,test
+P003600,Ambulance took two hours to arrive after my father's heart attack. This is not the first time this has happened to me.,2,Management problems,3,9,Pediatrics,test
+P003601,The receptionist shouted at my elderly mother in front of everyone. This happened during my visit last week.,0,Communication problems,5,5,Surgery,test
+P003602,The doctor did not listen to my concerns and interrupted me constantly.,0,Communication problems,1,6,Internal,test
+P003603,Nobody supervised the trainee who performed my procedure alone. I have photos and documents as evidence.,3,Responsibility concerns,2,9,Internal,test
+P003604,Communication was terrible; I never knew what would happen next.,0,Communication problems,1,2,Internal,test
+P003605,The director refused to meet families of affected patients. The doctor laughed when I mentioned my fear of the procedure. I am filing this complaint on behalf of my father.,3,Responsibility concerns,2,8,Emergency,test
+P003606,Management admitted the fault verbally but denied it in writing. I have photos and documents as evidence.,3,Responsibility concerns,5,6,Emergency,test
+P003607,Staff were gossiping instead of attending to patients in the ward. My family is very upset about this incident.,0,Communication problems,3,7,Pediatrics,test
+P003608,The dentist pulled the wrong tooth and damaged the healthy one.,1,Diagnosis/Treatment issues,5,10,Pediatrics,test
+P003609,My allergy to penicillin was ignored and I went into shock. I expect a formal written response.,1,Diagnosis/Treatment issues,4,2,Radiology,test
+P003610,My allergy to penicillin was ignored and I went into shock. I have photos and documents as evidence.,1,Diagnosis/Treatment issues,4,4,Pediatrics,test
+P003611,The clinic deleted my negative feedback from their website.,3,Responsibility concerns,2,2,Emergency,test
+P003612,The clinic opens late every morning with a huge crowd outside. My family is very upset about this incident.,2,Management problems,4,12,Radiology,test
+P003613,The laboratory lost my blood sample twice in one week.,2,Management problems,4,4,Emergency,test
+P003614,The doctor discussed my private condition loudly in the corridor. My surgery was cancelled twice because the room was double-booked. I have witnesses who can confirm this.,0,Communication problems,5,9,Emergency,test
+P003615,The pharmacist refused to explain how to take my pills. I trusted this hospital and I feel betrayed.,0,Communication problems,2,7,Pediatrics,test
+P003616,No one introduced themselves or told me their role in my care.,0,Communication problems,1,1,Surgery,test
+P003617,My request for a second opinion was blocked by the same doctor. The receptionist hung up on me three times when I called.,3,Responsibility concerns,2,5,Radiology,test
+P003618,My request for a second opinion was blocked by the same doctor. Staff were gossiping instead of attending to patients in the ward. I have witnesses who can confirm this.,3,Responsibility concerns,3,2,Emergency,test
+P003619,Discharge medicines were missing half the prescribed items. My compensation claim has been pending for over two years.,2,Management problems,5,4,Internal,test
+P003620,The doctor prescribed a drug that interacts badly with my heart pills. The whole experience was extremely distressing.,1,Diagnosis/Treatment issues,4,1,Radiology,test
+P003621,They confused my lab results with another patient and mistreated me. This is not the first time this has happened to me.,1,Diagnosis/Treatment issues,4,7,Internal,test
+P003622,The physician used offensive language during my examination. The whole experience was extremely distressing.,0,Communication problems,4,2,Surgery,test
+P003623,Chemotherapy dosage was miscalculated and poisoned my kidneys.,1,Diagnosis/Treatment issues,4,1,Emergency,test
+P003624,I was discharged with complications and nobody accepted the blame. I am filing this complaint on behalf of my father.,3,Responsibility concerns,3,3,Radiology,test
+P003625,My allergy to penicillin was ignored and I went into shock. The whole experience was extremely distressing.,1,Diagnosis/Treatment issues,1,6,Radiology,test
+P003626,My appointment was postponed three times without any explanation.,2,Management problems,5,2,Radiology,test
+P003627,The hospital refused to share the incident report with my family. The surgeon was arrogant and refused to explain the risks.,3,Responsibility concerns,5,12,Surgery,test
+P003628,The clinic opens late every morning with a huge crowd outside.,2,Management problems,3,5,Surgery,test
+P003629,The hospital lawyer threatened me for posting an honest review.,3,Responsibility concerns,3,3,Internal,test
+P003630,The treatment did not follow the guidelines and my condition worsened. This happened during my visit last week.,1,Diagnosis/Treatment issues,2,7,Internal,test
+P003631,My appendicitis was dismissed as stomach flu until it ruptured. I trusted this hospital and I feel betrayed.,1,Diagnosis/Treatment issues,2,5,Surgery,test
+P003632,I felt humiliated by the way the physician spoke to me. I want an apology and corrective action.,0,Communication problems,4,12,Surgery,test
+P003633,My thyroid condition went untreated for years despite clear tests. This should never happen to any patient again.,1,Diagnosis/Treatment issues,4,3,Radiology,test
+P003634,The eye injection was done incorrectly and damaged my vision. Someone must be held accountable for this.,1,Diagnosis/Treatment issues,5,7,Radiology,test
+P003635,The surgery was performed on the wrong site and had to be repeated.,1,Diagnosis/Treatment issues,3,2,Emergency,test
+P003636,I developed an infection because instruments were not sterilized. I am filing this complaint on behalf of my father.,1,Diagnosis/Treatment issues,2,9,Radiology,test
+P003637,The nurse was rude and dismissive when I asked about my medication.,0,Communication problems,2,9,Radiology,test
+P003638,The receptionist hung up on me three times when I called.,0,Communication problems,3,2,Radiology,test
+P003639,The contraceptive implant was placed wrongly and failed.,1,Diagnosis/Treatment issues,3,8,Emergency,test
+P003640,The receptionist shouted at my elderly mother in front of everyone.,0,Communication problems,3,8,Pediatrics,test
+P003641,Communication was terrible; I never knew what would happen next. Please investigate this matter urgently.,0,Communication problems,2,2,Emergency,test
+P003642,Staff attitude was unacceptable; nobody explained the waiting time. I trusted this hospital and I feel betrayed.,0,Communication problems,5,4,Pediatrics,test
+P003643,Staff were gossiping instead of attending to patients in the ward. My allergy to penicillin was ignored and I went into shock.,0,Communication problems,2,6,Radiology,test
+P003644,Nurses scolded me for asking for pain relief twice. Someone must be held accountable for this.,0,Communication problems,1,10,Pediatrics,test
+P003645,The anesthesiologist made an error and I woke up during surgery. Someone must be held accountable for this.,1,Diagnosis/Treatment issues,4,4,Internal,test
+P003646,The cast was too tight and cut off circulation to my foot. I have witnesses who can confirm this.,1,Diagnosis/Treatment issues,5,1,Radiology,test
+P003647,My formal complaint was ignored for six months without a reply.,3,Responsibility concerns,3,3,Emergency,test
+P003648,My appendicitis was dismissed as stomach flu until it ruptured.,1,Diagnosis/Treatment issues,3,1,Pediatrics,test
+P003649,The surgery was performed on the wrong site and had to be repeated. I want an apology and corrective action.,1,Diagnosis/Treatment issues,5,2,Emergency,test
+P003650,My request for a second opinion was blocked by the same doctor. I have photos and documents as evidence.,3,Responsibility concerns,5,1,Pediatrics,test
+P003651,The dentist pulled the wrong tooth and damaged the healthy one. I expect a formal written response.,1,Diagnosis/Treatment issues,2,10,Radiology,test
+P003652,I asked for an interpreter but the staff mocked my request. This is not the first time this has happened to me.,0,Communication problems,4,3,Surgery,test
+P003653,The clinic deleted my negative feedback from their website. I expect a formal written response.,3,Responsibility concerns,1,1,Surgery,test
+P003654,Doctors changed my file after I complained about the error.,3,Responsibility concerns,4,8,Pediatrics,test
+P003655,The doctor laughed when I mentioned my fear of the procedure. Each department blamed the other and nothing was ever fixed. I want an apology and corrective action.,0,Communication problems,3,4,Pediatrics,test
+P003656,The staff spoke about me as if I was not in the room. I have photos and documents as evidence.,0,Communication problems,2,12,Emergency,test
+P003657,Hospital corridors are filthy and smell of smoke. The clinic deleted my negative feedback from their website. I trusted this hospital and I feel betrayed.,2,Management problems,3,1,Emergency,test
+P003658,Wrong insulin dose sent me to the emergency room the same night.,1,Diagnosis/Treatment issues,1,6,Emergency,test
+P003659,The treatment did not follow the guidelines and my condition worsened.,1,Diagnosis/Treatment issues,3,8,Emergency,test
+P003660,The ethics committee never replied to any of my three letters. I want an apology and corrective action.,3,Responsibility concerns,2,7,Internal,test
+P003661,The doctor prescribed a drug that interacts badly with my heart pills. The clinic opens late every morning with a huge crowd outside.,1,Diagnosis/Treatment issues,1,10,Internal,test
+P003662,The pharmacy denied the dispensing error despite the receipt proof.,3,Responsibility concerns,2,4,Pediatrics,test
+P003663,The surgery was performed on the wrong site and had to be repeated.,1,Diagnosis/Treatment issues,5,3,Emergency,test
+P003664,The billing office sent my invoice to a stranger's address.,2,Management problems,3,5,Pediatrics,test
+P003665,Communication was terrible; I never knew what would happen next.,0,Communication problems,1,3,Internal,test
+P003666,My referral letter expired while waiting for an authorization code. I was misdiagnosed twice before they found the real infection.,2,Management problems,2,9,Internal,test
+P003667,The doctor laughed when I mentioned my fear of the procedure.,0,Communication problems,4,2,Surgery,test
+P003668,The treatment did not follow the guidelines and my condition worsened.,1,Diagnosis/Treatment issues,3,7,Surgery,test
+P003669,No doctor was present during the entire night shift. This is not the first time this has happened to me.,2,Management problems,1,7,Pediatrics,test
+P003670,The air conditioning was broken and the ward was unbearable. I am filing this complaint on behalf of my father.,2,Management problems,2,10,Internal,test
+P003671,The doctor laughed when I mentioned my fear of the procedure.,0,Communication problems,2,7,Internal,test
+P003672,The doctor did not listen to my concerns and interrupted me constantly.,0,Communication problems,4,2,Radiology,test
+P003673,My appendicitis was dismissed as stomach flu until it ruptured. I have photos and documents as evidence.,1,Diagnosis/Treatment issues,1,7,Pediatrics,test
+P003674,I was misdiagnosed twice before they found the real infection. I have photos and documents as evidence.,1,Diagnosis/Treatment issues,1,4,Radiology,test
+P003675,My compensation claim has been pending for over two years.,3,Responsibility concerns,5,12,Emergency,test
+P003676,The pharmacy denied the dispensing error despite the receipt proof. The whole experience was extremely distressing.,3,Responsibility concerns,4,5,Internal,test
+P003677,The complaint office itself never answers its own phone. This is not the first time this has happened to me.,2,Management problems,2,4,Emergency,test
+P003678,Nobody noticed my broken ribs on three separate visits. I expect a formal written response.,1,Diagnosis/Treatment issues,4,9,Surgery,test
+P003679,My medical records were lost and I had to redo all the tests. The hospital blamed my age instead of their missed diagnosis. I want an apology and corrective action.,2,Management problems,3,3,Internal,test
+P003680,The surgeon was arrogant and refused to explain the risks. The clinic opens late every morning with a huge crowd outside.,0,Communication problems,1,3,Radiology,test
+P003681,Hospital corridors are filthy and smell of smoke. My family is very upset about this incident.,2,Management problems,3,3,Surgery,test
+P003682,My medical records were lost and I had to redo all the tests.,2,Management problems,5,8,Emergency,test
+P003683,I was transferred to another hospital just to silence my complaint. I trusted this hospital and I feel betrayed.,3,Responsibility concerns,3,2,Emergency,test
+P003684,My medical records were lost and I had to redo all the tests.,2,Management problems,1,6,Surgery,test
+P003685,My referral letter expired while waiting for an authorization code. This is not the first time this has happened to me.,2,Management problems,2,9,Pediatrics,test
+P003686,The billing office sent my invoice to a stranger's address.,2,Management problems,2,11,Surgery,test
+P003687,My appendicitis was dismissed as stomach flu until it ruptured. This happened during my visit last week.,1,Diagnosis/Treatment issues,2,3,Internal,test
+P003688,The receptionist shouted at my elderly mother in front of everyone. This should never happen to any patient again.,0,Communication problems,4,4,Radiology,test
+P003689,They confused my lab results with another patient and mistreated me. I want an apology and corrective action.,1,Diagnosis/Treatment issues,1,10,Radiology,test
+P003690,No one introduced themselves or told me their role in my care.,0,Communication problems,1,2,Pediatrics,test
+P003691,Hospital parking and admission queues are completely unmanaged.,2,Management problems,5,1,Pediatrics,test
+P003692,The consultant spoke only to my husband and never to me. This happened during my visit last week.,0,Communication problems,1,3,Pediatrics,test
+P003693,The physician used offensive language during my examination. A delayed cancer diagnosis cost me months of valuable treatment time.,0,Communication problems,1,8,Pediatrics,test
+P003694,The air conditioning was broken and the ward was unbearable. Communication was terrible; I never knew what would happen next. I am filing this complaint on behalf of my father.,2,Management problems,3,8,Emergency,test
+P003695,My thyroid condition went untreated for years despite clear tests. My family is very upset about this incident.,1,Diagnosis/Treatment issues,4,7,Pediatrics,test
+P003696,There is only one toilet for forty patients on this floor. I have witnesses who can confirm this.,2,Management problems,2,8,Pediatrics,test
+P003697,My referral letter expired while waiting for an authorization code.,2,Management problems,1,6,Emergency,test
+P003698,The supervisor promised an investigation that never happened.,3,Responsibility concerns,3,9,Pediatrics,test
+P003699,The consultant spoke only to my husband and never to me.,0,Communication problems,1,1,Radiology,test
+P003700,The follow-up scan was never ordered and the tumor kept growing. The head nurse said mistakes happen and walked away.,1,Diagnosis/Treatment issues,5,8,Radiology,test
+P003701,Ambulance took two hours to arrive after my father's heart attack. The physician used offensive language during my examination.,2,Management problems,5,2,Radiology,test
+P003702,They pressured me to withdraw my complaint against the clinic.,3,Responsibility concerns,5,5,Emergency,test
+P003703,Wheelchairs are all broken and no porter is ever available. This should never happen to any patient again.,2,Management problems,1,8,Surgery,test
+P003704,The cast was too tight and cut off circulation to my foot. Someone must be held accountable for this.,1,Diagnosis/Treatment issues,1,3,Emergency,test
+P003705,Staff were gossiping instead of attending to patients in the ward. Visiting hours change daily and nobody informs the families.,0,Communication problems,2,9,Surgery,test
+P003706,My stroke symptoms were sent home as migraine twice.,1,Diagnosis/Treatment issues,3,2,Pediatrics,test
+P003707,The radiologist missed the blood clot clearly visible on the scan. I want an apology and corrective action.,1,Diagnosis/Treatment issues,2,8,Pediatrics,test
+P003708,My request for a second opinion was blocked by the same doctor. This happened during my visit last week.,3,Responsibility concerns,2,2,Pediatrics,test
+P003709,The surgeon was arrogant and refused to explain the risks.,0,Communication problems,3,9,Surgery,test
+P003710,Nobody told me the test results; I heard them by accident.,0,Communication problems,3,4,Surgery,test
+P003711,Doctors changed my file after I complained about the error. This is not the first time this has happened to me.,3,Responsibility concerns,1,7,Radiology,test
+P003712,Doctors changed my file after I complained about the error. My family is very upset about this incident.,3,Responsibility concerns,1,7,Pediatrics,test
+P003713,They pressured me to withdraw my complaint against the clinic.,3,Responsibility concerns,1,6,Radiology,test
+P003714,My baby received an adult dose of vaccine by mistake. My family is very upset about this incident.,1,Diagnosis/Treatment issues,1,8,Internal,test
+P003715,I waited four months for a specialist appointment that was cancelled. This happened during my visit last week.,2,Management problems,2,5,Surgery,test
+P003716,"The ward was dirty, overcrowded and the bathroom had no water. This is not the first time this has happened to me.",2,Management problems,3,8,Emergency,test
+P003717,The follow-up scan was never ordered and the tumor kept growing.,1,Diagnosis/Treatment issues,4,9,Internal,test
+P003718,My allergy to penicillin was ignored and I went into shock.,1,Diagnosis/Treatment issues,3,2,Radiology,test
+P003719,The ethics committee never replied to any of my three letters.,3,Responsibility concerns,1,3,Emergency,test
+P003720,Nurses scolded me for asking for pain relief twice.,0,Communication problems,4,3,Pediatrics,test
+P003721,My compensation claim has been pending for over two years.,3,Responsibility concerns,2,4,Radiology,test
+P003722,The hospital food was expired and several patients got sick.,2,Management problems,4,7,Radiology,test
+P003723,Hospital parking and admission queues are completely unmanaged.,2,Management problems,2,3,Internal,test
+P003724,My call button was ignored for over an hour last night. I trusted this hospital and I feel betrayed.,0,Communication problems,2,10,Pediatrics,test
+P003725,I was transferred to another hospital just to silence my complaint. This should never happen to any patient again.,3,Responsibility concerns,5,11,Pediatrics,test
+P003726,I was scolded for crying during a painful dressing change.,0,Communication problems,5,8,Pediatrics,test
+P003727,I was scolded for crying during a painful dressing change. I paid for a private room but was placed in a shared ward.,0,Communication problems,2,2,Internal,test
+P003728,No incident number was given so my case officially never existed. My family is very upset about this incident.,3,Responsibility concerns,3,8,Emergency,test
+P003729,The receptionist hung up on me three times when I called.,0,Communication problems,4,6,Emergency,test
+P003730,My fracture was missed on the X-ray and discovered weeks later. This happened during my visit last week.,1,Diagnosis/Treatment issues,2,12,Pediatrics,test
+P003731,They pressured me to withdraw my complaint against the clinic.,3,Responsibility concerns,4,3,Pediatrics,test
+P003732,I was blamed for being sick when I asked for help walking.,0,Communication problems,5,2,Internal,test
+P003733,There is only one toilet for forty patients on this floor. This is not the first time this has happened to me.,2,Management problems,4,10,Pediatrics,test
+P003734,No one introduced themselves or told me their role in my care. This should never happen to any patient again.,0,Communication problems,3,10,Radiology,test
+P003735,The biopsy sample was lost and my treatment was delayed months.,1,Diagnosis/Treatment issues,1,5,Pediatrics,test
+P003736,The ethics committee never replied to any of my three letters. Communication was terrible; I never knew what would happen next.,3,Responsibility concerns,5,4,Pediatrics,test
+P003737,Discharge papers took two days while I kept paying for the bed. A sponge was left inside me after the operation. I have witnesses who can confirm this.,2,Management problems,4,1,Emergency,test
+P003738,Nobody answered my questions and the staff seemed annoyed.,0,Communication problems,4,2,Emergency,test
+P003739,Chemotherapy dosage was miscalculated and poisoned my kidneys. Please investigate this matter urgently.,1,Diagnosis/Treatment issues,1,12,Emergency,test
+P003740,Nobody answered my questions and the staff seemed annoyed. Someone must be held accountable for this.,0,Communication problems,4,8,Internal,test
+P003741,My call button was ignored for over an hour last night.,0,Communication problems,4,3,Radiology,test
+P003742,Staff refused to speak slowly even though I am hard of hearing. I expect a formal written response.,0,Communication problems,1,9,Radiology,test
+P003743,Accountability is zero; the same error happened to my neighbor. I will escalate this to the health ministry if needed.,3,Responsibility concerns,4,3,Radiology,test
+P003744,No one introduced themselves or told me their role in my care. They offered me money quietly instead of fixing the real problem. My family is very upset about this incident.,0,Communication problems,3,1,Emergency,test
+P003745,I was given blood from the wrong group and nearly died. I am filing this complaint on behalf of my father.,1,Diagnosis/Treatment issues,1,1,Pediatrics,test
+P003746,Nurses scolded me for asking for pain relief twice.,0,Communication problems,1,9,Radiology,test
+P003747,The complaint office itself never answers its own phone.,2,Management problems,3,4,Surgery,test
+P003748,I asked for an interpreter but the staff mocked my request.,0,Communication problems,5,6,Radiology,test
+P003749,Risk management closed my case without interviewing me. I will escalate this to the health ministry if needed.,3,Responsibility concerns,1,12,Pediatrics,test
+P003750,The hospital lawyer threatened me for posting an honest review.,3,Responsibility concerns,4,7,Surgery,test
+P003751,The triage nurse ignored my pain and told me to wait silently. This should never happen to any patient again.,0,Communication problems,1,1,Internal,test
+P003752,They overcharged me for services I never received.,2,Management problems,3,9,Emergency,test
+P003753,The emergency room wait took nine hours with no triage update. My family is very upset about this incident.,2,Management problems,3,4,Emergency,test
+P003754,Nobody answered my questions and the staff seemed annoyed. I want an apology and corrective action.,0,Communication problems,4,7,Emergency,test
+P003755,The elevator was broken and my wheelchair could not reach the clinic.,2,Management problems,1,7,Emergency,test
+P003756,The same faulty machine injured patients for months with no recall.,3,Responsibility concerns,1,10,Surgery,test
+P003757,The allergy test was misread and I was exposed to the allergen. I expect a formal written response.,1,Diagnosis/Treatment issues,2,9,Internal,test
+P003758,The doctor did not listen to my concerns and interrupted me constantly. The hospital lawyer threatened me for posting an honest review.,0,Communication problems,4,4,Internal,test
+P003759,Wrong insulin dose sent me to the emergency room the same night.,1,Diagnosis/Treatment issues,2,4,Internal,test
+P003760,They confused my lab results with another patient and mistreated me.,1,Diagnosis/Treatment issues,3,11,Surgery,test
+P003761,I was given blood from the wrong group and nearly died. The pharmacy denied the dispensing error despite the receipt proof.,1,Diagnosis/Treatment issues,3,5,Radiology,test
+P003762,They overcharged me for services I never received.,2,Management problems,2,11,Pediatrics,test
+P003763,They pressured me to withdraw my complaint against the clinic. I trusted this hospital and I feel betrayed.,3,Responsibility concerns,2,10,Pediatrics,test
+P003764,They offered me money quietly instead of fixing the real problem. This is not the first time this has happened to me.,3,Responsibility concerns,4,12,Pediatrics,test
+P003765,The cast was too tight and cut off circulation to my foot.,1,Diagnosis/Treatment issues,3,11,Internal,test
+P003766,No one introduced themselves or told me their role in my care.,0,Communication problems,1,10,Internal,test
+P003767,"The ward was dirty, overcrowded and the bathroom had no water. My family is very upset about this incident.",2,Management problems,2,7,Internal,test
+P003768,Internal review cleared everyone without speaking to a single patient. I expect a formal written response.,3,Responsibility concerns,2,12,Radiology,test
+P003769,Chemotherapy dosage was miscalculated and poisoned my kidneys.,1,Diagnosis/Treatment issues,4,3,Pediatrics,test
+P003770,There were no available beds and I slept on a chair overnight. This should never happen to any patient again.,2,Management problems,4,9,Radiology,test
+P003771,Nobody told me the test results; I heard them by accident. Someone must be held accountable for this.,0,Communication problems,5,9,Emergency,test
+P003772,I was given blood from the wrong group and nearly died.,1,Diagnosis/Treatment issues,5,11,Pediatrics,test
+P003773,The intensive care unit had no free ventilator when I needed one. Someone must be held accountable for this.,2,Management problems,5,11,Radiology,test
+P003774,The treatment did not follow the guidelines and my condition worsened. My family is very upset about this incident.,1,Diagnosis/Treatment issues,3,4,Internal,test
+P003775,There is only one toilet for forty patients on this floor. The surgery was performed on the wrong site and had to be repeated.,2,Management problems,5,1,Radiology,test
+P003776,My referral letter expired while waiting for an authorization code. I will escalate this to the health ministry if needed.,2,Management problems,5,6,Emergency,test
+P003777,The clinic opens late every morning with a huge crowd outside.,2,Management problems,1,2,Surgery,test
+P003778,They confused my lab results with another patient and mistreated me.,1,Diagnosis/Treatment issues,5,4,Pediatrics,test
+P003779,The allergy test was misread and I was exposed to the allergen.,1,Diagnosis/Treatment issues,2,6,Emergency,test
+P003780,The hospital food was expired and several patients got sick.,2,Management problems,2,11,Radiology,test
+P003781,The midwife was rough and showed no empathy during labor. The billing office sent my invoice to a stranger's address.,0,Communication problems,4,1,Internal,test
+P003782,The staff spoke about me as if I was not in the room.,0,Communication problems,3,9,Internal,test
+P003783,Wheelchairs are all broken and no porter is ever available. My family is very upset about this incident.,2,Management problems,1,2,Emergency,test
+P003784,There is only one toilet for forty patients on this floor.,2,Management problems,2,4,Emergency,test
+P003785,The prescribed dosage was wrong and caused severe side effects.,1,Diagnosis/Treatment issues,3,2,Emergency,test
+P003786,I was discharged with complications and nobody accepted the blame. I have photos and documents as evidence.,3,Responsibility concerns,3,5,Emergency,test
+P003787,The surgeon was arrogant and refused to explain the risks. I have witnesses who can confirm this.,0,Communication problems,3,10,Surgery,test
+P003788,The radiologist missed the blood clot clearly visible on the scan.,1,Diagnosis/Treatment issues,1,2,Emergency,test
+P003789,The clinic opens late every morning with a huge crowd outside. I have photos and documents as evidence.,2,Management problems,5,6,Emergency,test
+P003790,Online booking never works and the phone line is always busy.,2,Management problems,1,6,Surgery,test
+P003791,Nurses scolded me for asking for pain relief twice. This happened during my visit last week.,0,Communication problems,4,12,Internal,test
+P003792,The triage nurse ignored my pain and told me to wait silently. I expect a formal written response.,0,Communication problems,2,1,Emergency,test
+P003793,The supervisor promised an investigation that never happened.,3,Responsibility concerns,5,4,Pediatrics,test
+P003794,The staff spoke about me as if I was not in the room.,0,Communication problems,3,3,Surgery,test
+P003795,The nurse rolled her eyes when I described my symptoms. This is not the first time this has happened to me.,0,Communication problems,4,7,Internal,test
+P003796,The surgery was performed on the wrong site and had to be repeated. I trusted this hospital and I feel betrayed.,1,Diagnosis/Treatment issues,4,2,Radiology,test
+P003797,There is only one toilet for forty patients on this floor. The surgeon was arrogant and refused to explain the risks. I am filing this complaint on behalf of my father.,2,Management problems,3,5,Surgery,test
+P003798,My appointment was postponed three times without any explanation.,2,Management problems,5,2,Radiology,test
+P003799,The contraceptive implant was placed wrongly and failed. I expect a formal written response.,1,Diagnosis/Treatment issues,2,12,Emergency,test
+P003800,They pressured me to withdraw my complaint against the clinic.,3,Responsibility concerns,3,9,Pediatrics,test
+P003801,No one followed up after my surgery complications were reported.,3,Responsibility concerns,3,10,Internal,test
+P003802,My compensation claim has been pending for over two years. The biopsy sample was lost and my treatment was delayed months.,3,Responsibility concerns,3,11,Surgery,test
+P003803,Doctors changed my file after I complained about the error. Please investigate this matter urgently.,3,Responsibility concerns,3,10,Pediatrics,test
+P003804,My appendicitis was dismissed as stomach flu until it ruptured. I trusted this hospital and I feel betrayed.,1,Diagnosis/Treatment issues,5,5,Emergency,test
+P003805,A delayed cancer diagnosis cost me months of valuable treatment time.,1,Diagnosis/Treatment issues,4,5,Emergency,test
+P003806,Staff were gossiping instead of attending to patients in the ward.,0,Communication problems,2,2,Radiology,test
+P003807,Nobody noticed my broken ribs on three separate visits. I have witnesses who can confirm this.,1,Diagnosis/Treatment issues,1,6,Surgery,test
+P003808,My call button was ignored for over an hour last night. The whole experience was extremely distressing.,0,Communication problems,3,8,Emergency,test
+P003809,Ambulance took two hours to arrive after my father's heart attack. The whole experience was extremely distressing.,2,Management problems,2,9,Pediatrics,test
+P003810,No one followed up after my surgery complications were reported.,3,Responsibility concerns,5,10,Emergency,test
+P003811,The head nurse said mistakes happen and walked away. They overcharged me for services I never received. I will escalate this to the health ministry if needed.,3,Responsibility concerns,3,7,Emergency,test
+P003812,No doctor was present during the entire night shift.,2,Management problems,4,1,Pediatrics,test
+P003813,The emergency room wait took nine hours with no triage update. Someone must be held accountable for this.,2,Management problems,5,2,Emergency,test
+P003814,The surgery was performed on the wrong site and had to be repeated. Please investigate this matter urgently.,1,Diagnosis/Treatment issues,1,7,Radiology,test
+P003815,The follow-up scan was never ordered and the tumor kept growing. I trusted this hospital and I feel betrayed.,1,Diagnosis/Treatment issues,4,4,Emergency,test
+P003816,Communication was terrible; I never knew what would happen next.,0,Communication problems,1,2,Pediatrics,test
+P003817,The pharmacy had no stock of my prescribed medicine for weeks. I am filing this complaint on behalf of my father.,2,Management problems,3,3,Emergency,test
+P003818,The staff spoke about me as if I was not in the room.,0,Communication problems,2,6,Internal,test
+P003819,My appointment was postponed three times without any explanation. This is not the first time this has happened to me.,2,Management problems,1,3,Radiology,test
+P003820,The nurse was rude and dismissive when I asked about my medication.,0,Communication problems,1,8,Pediatrics,test
+P003821,Staff attitude was unacceptable; nobody explained the waiting time. I have witnesses who can confirm this.,0,Communication problems,2,8,Emergency,test
+P003822,My medical records were lost and I had to redo all the tests. I have witnesses who can confirm this.,2,Management problems,3,6,Emergency,test
+P003823,Nobody noticed my broken ribs on three separate visits. The triage nurse ignored my pain and told me to wait silently.,1,Diagnosis/Treatment issues,5,3,Internal,test
+P003824,No one followed up after my surgery complications were reported. My referral letter expired while waiting for an authorization code. This should never happen to any patient again.,3,Responsibility concerns,2,9,Surgery,test
+P003825,The nurse was rude and dismissive when I asked about my medication. The radiologist missed the blood clot clearly visible on the scan.,0,Communication problems,4,12,Surgery,test
+P003826,The physician used offensive language during my examination.,0,Communication problems,3,9,Pediatrics,test
+P003827,Visiting hours change daily and nobody informs the families. I have witnesses who can confirm this.,2,Management problems,1,2,Emergency,test
+P003828,My baby received an adult dose of vaccine by mistake. Someone must be held accountable for this.,1,Diagnosis/Treatment issues,5,10,Radiology,test
+P003829,The elevator was broken and my wheelchair could not reach the clinic. The whole experience was extremely distressing.,2,Management problems,1,11,Pediatrics,test
+P003830,I was discharged with complications and nobody accepted the blame.,3,Responsibility concerns,4,5,Pediatrics,test
+P003831,I waited four months for a specialist appointment that was cancelled.,2,Management problems,5,3,Radiology,test
+P003832,They overcharged me for services I never received.,2,Management problems,5,7,Surgery,test
+P003833,The night nurse threatened to remove my visitors for no reason.,0,Communication problems,2,8,Pediatrics,test
+P003834,The doctor did not listen to my concerns and interrupted me constantly. I expect a formal written response.,0,Communication problems,1,10,Pediatrics,test
+P003835,The physician used offensive language during my examination. They pressured me to withdraw my complaint against the clinic. I will escalate this to the health ministry if needed.,0,Communication problems,3,6,Pediatrics,test
+P003836,No doctor was present during the entire night shift. I want an apology and corrective action.,2,Management problems,2,8,Internal,test
+P003837,My appendicitis was dismissed as stomach flu until it ruptured. My appointment was postponed three times without any explanation.,1,Diagnosis/Treatment issues,3,3,Surgery,test
+P003838,"After the incident, no manager would meet me or apologize.",3,Responsibility concerns,3,4,Radiology,test
+P003839,The anesthesiologist made an error and I woke up during surgery. I will escalate this to the health ministry if needed.,1,Diagnosis/Treatment issues,5,8,Emergency,test
+P003840,The nurse rolled her eyes when I described my symptoms.,0,Communication problems,3,4,Emergency,test
+P003841,The doctor laughed when I mentioned my fear of the procedure.,0,Communication problems,1,11,Internal,test
+P003842,The anesthesiologist made an error and I woke up during surgery. I am filing this complaint on behalf of my father.,1,Diagnosis/Treatment issues,1,9,Surgery,test
+P003843,A delayed cancer diagnosis cost me months of valuable treatment time. Discharge papers took two days while I kept paying for the bed.,1,Diagnosis/Treatment issues,2,12,Emergency,test
+P003844,I was given blood from the wrong group and nearly died.,1,Diagnosis/Treatment issues,4,12,Radiology,test
+P003845,No doctor was present during the entire night shift. My baby received an adult dose of vaccine by mistake. I want an apology and corrective action.,2,Management problems,5,9,Internal,test
+P003846,The surgery was performed on the wrong site and had to be repeated.,1,Diagnosis/Treatment issues,5,5,Surgery,test
+P003847,The treatment did not follow the guidelines and my condition worsened.,1,Diagnosis/Treatment issues,4,7,Surgery,test
+P003848,The hospital refused to share the incident report with my family. Someone must be held accountable for this.,3,Responsibility concerns,4,1,Pediatrics,test
+P003849,Staff refused to speak slowly even though I am hard of hearing.,0,Communication problems,1,10,Internal,test
+P003850,Staff refused to speak slowly even though I am hard of hearing.,0,Communication problems,5,10,Internal,test
+P003851,I was scolded for crying during a painful dressing change. I want an apology and corrective action.,0,Communication problems,1,12,Surgery,test
+P003852,My formal complaint was ignored for six months without a reply.,3,Responsibility concerns,2,3,Internal,test
+P003853,I was discharged with untreated pneumonia and collapsed at home. I am filing this complaint on behalf of my father.,1,Diagnosis/Treatment issues,4,1,Internal,test
+P003854,Nurses scolded me for asking for pain relief twice.,0,Communication problems,5,11,Pediatrics,test
+P003855,The anesthesiologist made an error and I woke up during surgery. Staff denied everything even though witnesses confirmed my story.,1,Diagnosis/Treatment issues,2,11,Radiology,test
+P003856,A delayed cancer diagnosis cost me months of valuable treatment time.,1,Diagnosis/Treatment issues,2,6,Surgery,test
+P003857,My baby received an adult dose of vaccine by mistake. My compensation claim has been pending for over two years.,1,Diagnosis/Treatment issues,3,8,Radiology,test
+P003858,Ambulance took two hours to arrive after my father's heart attack. I expect a formal written response.,2,Management problems,4,10,Radiology,test
+P003859,The cast was too tight and cut off circulation to my foot.,1,Diagnosis/Treatment issues,5,11,Radiology,test
+P003860,My request for a second opinion was blocked by the same doctor. I want an apology and corrective action.,3,Responsibility concerns,3,6,Radiology,test
+P003861,Internal review cleared everyone without speaking to a single patient.,3,Responsibility concerns,1,2,Emergency,test
+P003862,A sponge was left inside me after the operation.,1,Diagnosis/Treatment issues,3,2,Internal,test
+P003863,The eye injection was done incorrectly and damaged my vision. I am filing this complaint on behalf of my father.,1,Diagnosis/Treatment issues,4,5,Emergency,test
+P003864,They confused my lab results with another patient and mistreated me.,1,Diagnosis/Treatment issues,4,10,Pediatrics,test
+P003865,My appendicitis was dismissed as stomach flu until it ruptured. I am filing this complaint on behalf of my father.,1,Diagnosis/Treatment issues,5,7,Internal,test
+P003866,Hospital parking and admission queues are completely unmanaged. The whole experience was extremely distressing.,2,Management problems,1,11,Pediatrics,test
+P003867,I felt humiliated by the way the physician spoke to me.,0,Communication problems,5,3,Radiology,test
+P003868,Wrong insulin dose sent me to the emergency room the same night. This is not the first time this has happened to me.,1,Diagnosis/Treatment issues,5,11,Surgery,test
+P003869,The hospital refused to share the incident report with my family. I expect a formal written response.,3,Responsibility concerns,1,2,Surgery,test
+P003870,The clinic opens late every morning with a huge crowd outside. I trusted this hospital and I feel betrayed.,2,Management problems,5,10,Radiology,test
+P003871,Visiting hours change daily and nobody informs the families. The whole experience was extremely distressing.,2,Management problems,4,6,Emergency,test
+P003872,My appointment was postponed three times without any explanation. I will escalate this to the health ministry if needed.,2,Management problems,2,12,Emergency,test
+P003873,Discharge papers took two days while I kept paying for the bed. Someone must be held accountable for this.,2,Management problems,1,4,Emergency,test
+P003874,Staff were gossiping instead of attending to patients in the ward. Chemotherapy dosage was miscalculated and poisoned my kidneys. This is not the first time this has happened to me.,0,Communication problems,3,4,Internal,test
+P003875,No incident number was given so my case officially never existed. The follow-up scan was never ordered and the tumor kept growing.,3,Responsibility concerns,1,11,Emergency,test
+P003876,My baby received an adult dose of vaccine by mistake. I expect a formal written response.,1,Diagnosis/Treatment issues,5,3,Pediatrics,test
+P003877,The physician used offensive language during my examination. Someone must be held accountable for this.,0,Communication problems,2,1,Radiology,test
+P003878,My baby received an adult dose of vaccine by mistake.,1,Diagnosis/Treatment issues,4,9,Radiology,test
+P003879,My appendicitis was dismissed as stomach flu until it ruptured.,1,Diagnosis/Treatment issues,2,2,Surgery,test
+P003880,A sponge was left inside me after the operation. This is not the first time this has happened to me.,1,Diagnosis/Treatment issues,2,2,Internal,test
+P003881,Security guards treated patients like criminals at the entrance. This should never happen to any patient again.,0,Communication problems,3,8,Internal,test
+P003882,Chemotherapy dosage was miscalculated and poisoned my kidneys. They overcharged me for services I never received. This is not the first time this has happened to me.,1,Diagnosis/Treatment issues,5,11,Radiology,test
+P003883,I was blamed for being sick when I asked for help walking.,0,Communication problems,3,3,Pediatrics,test
+P003884,Hospital parking and admission queues are completely unmanaged. This is not the first time this has happened to me.,2,Management problems,4,12,Internal,test
+P003885,The supervisor promised an investigation that never happened.,3,Responsibility concerns,5,9,Surgery,test
+P003886,The prescribed dosage was wrong and caused severe side effects. I am filing this complaint on behalf of my father.,1,Diagnosis/Treatment issues,5,11,Surgery,test
+P003887,Nurses scolded me for asking for pain relief twice. Please investigate this matter urgently.,0,Communication problems,4,11,Emergency,test
+P003888,They offered me money quietly instead of fixing the real problem.,3,Responsibility concerns,1,7,Emergency,test
+P003889,Staff attitude was unacceptable; nobody explained the waiting time. This is not the first time this has happened to me.,0,Communication problems,1,7,Internal,test
+P003890,My appendicitis was dismissed as stomach flu until it ruptured. I have photos and documents as evidence.,1,Diagnosis/Treatment issues,1,9,Radiology,test
+P003891,I was scolded for crying during a painful dressing change.,0,Communication problems,1,9,Pediatrics,test
+P003892,The director refused to meet families of affected patients. I am filing this complaint on behalf of my father.,3,Responsibility concerns,2,8,Radiology,test
+P003893,Each department blamed the other and nothing was ever fixed.,3,Responsibility concerns,2,4,Internal,test
+P003894,My call button was ignored for over an hour last night.,0,Communication problems,1,4,Internal,test
+P003895,The doctor discussed my private condition loudly in the corridor.,0,Communication problems,2,1,Pediatrics,test
+P003896,The physician used offensive language during my examination.,0,Communication problems,5,7,Internal,test
+P003897,Chemotherapy dosage was miscalculated and poisoned my kidneys. I have witnesses who can confirm this.,1,Diagnosis/Treatment issues,3,6,Surgery,test
+P003898,Hospital parking and admission queues are completely unmanaged. I have witnesses who can confirm this.,2,Management problems,5,12,Emergency,test
+P003899,I felt humiliated by the way the physician spoke to me. I want an apology and corrective action.,0,Communication problems,1,12,Radiology,test
+P003900,No one followed up after my surgery complications were reported. Chemotherapy dosage was miscalculated and poisoned my kidneys. This should never happen to any patient again.,3,Responsibility concerns,3,7,Internal,test
+P003901,Chemotherapy dosage was miscalculated and poisoned my kidneys. I expect a formal written response.,1,Diagnosis/Treatment issues,4,2,Internal,test
+P003902,The nurse rolled her eyes when I described my symptoms.,0,Communication problems,4,9,Internal,test
+P003903,The allergy test was misread and I was exposed to the allergen.,1,Diagnosis/Treatment issues,5,1,Pediatrics,test
+P003904,No one introduced themselves or told me their role in my care. My family is very upset about this incident.,0,Communication problems,4,6,Radiology,test
+P003905,The pharmacy denied the dispensing error despite the receipt proof. I am filing this complaint on behalf of my father.,3,Responsibility concerns,4,5,Radiology,test
+P003906,My medical records were lost and I had to redo all the tests. This should never happen to any patient again.,2,Management problems,4,1,Surgery,test
+P003907,Management admitted the fault verbally but denied it in writing.,3,Responsibility concerns,2,1,Surgery,test
+P003908,The director refused to meet families of affected patients.,3,Responsibility concerns,2,11,Pediatrics,test
+P003909,The complaint office itself never answers its own phone.,2,Management problems,1,12,Emergency,test
+P003910,Security guards treated patients like criminals at the entrance.,0,Communication problems,5,6,Surgery,test
+P003911,The nurse rolled her eyes when I described my symptoms. The prescribed dosage was wrong and caused severe side effects. My family is very upset about this incident.,0,Communication problems,5,11,Radiology,test
+P003912,Staff were gossiping instead of attending to patients in the ward. I am filing this complaint on behalf of my father.,0,Communication problems,4,4,Surgery,test
+P003913,Hospital corridors are filthy and smell of smoke. Chemotherapy dosage was miscalculated and poisoned my kidneys. I trusted this hospital and I feel betrayed.,2,Management problems,5,12,Internal,test
+P003914,My thyroid condition went untreated for years despite clear tests. I asked for an interpreter but the staff mocked my request.,1,Diagnosis/Treatment issues,5,11,Radiology,test
+P003915,The surgeon was arrogant and refused to explain the risks.,0,Communication problems,2,2,Emergency,test
+P003916,They pressured me to withdraw my complaint against the clinic.,3,Responsibility concerns,1,10,Surgery,test
+P003917,My thyroid condition went untreated for years despite clear tests. I expect a formal written response.,1,Diagnosis/Treatment issues,3,1,Internal,test
+P003918,No one introduced themselves or told me their role in my care. This happened during my visit last week.,0,Communication problems,3,12,Pediatrics,test
+P003919,Hospital corridors are filthy and smell of smoke.,2,Management problems,1,1,Pediatrics,test
+P003920,The receptionist shouted at my elderly mother in front of everyone.,0,Communication problems,2,5,Internal,test
+P003921,The hospital lawyer threatened me for posting an honest review. The whole experience was extremely distressing.,3,Responsibility concerns,1,7,Emergency,test
+P003922,The hospital bus never follows the announced timetable.,2,Management problems,2,11,Pediatrics,test
+P003923,The head nurse said mistakes happen and walked away.,3,Responsibility concerns,1,1,Internal,test
+P003924,The night nurse threatened to remove my visitors for no reason. My family is very upset about this incident.,0,Communication problems,2,9,Surgery,test
+P003925,The doctor prescribed a drug that interacts badly with my heart pills. I will escalate this to the health ministry if needed.,1,Diagnosis/Treatment issues,1,2,Surgery,test
+P003926,The doctor laughed when I mentioned my fear of the procedure. Someone must be held accountable for this.,0,Communication problems,2,6,Internal,test
+P003927,The doctor discussed my private condition loudly in the corridor. Internal review cleared everyone without speaking to a single patient. My family is very upset about this incident.,0,Communication problems,4,8,Pediatrics,test
+P003928,The doctor laughed when I mentioned my fear of the procedure.,0,Communication problems,1,7,Internal,test
+P003929,The surgeon was arrogant and refused to explain the risks. This happened during my visit last week.,0,Communication problems,3,11,Emergency,test
+P003930,Risk management closed my case without interviewing me.,3,Responsibility concerns,1,9,Internal,test
+P003931,Discharge papers took two days while I kept paying for the bed. My family is very upset about this incident.,2,Management problems,2,8,Surgery,test
+P003932,The surgeon was arrogant and refused to explain the risks. I am filing this complaint on behalf of my father.,0,Communication problems,3,9,Radiology,test
+P003933,Staff were never retrained after the serious safety incident. Staff were gossiping instead of attending to patients in the ward.,3,Responsibility concerns,4,12,Radiology,test
+P003934,They offered me money quietly instead of fixing the real problem.,3,Responsibility concerns,2,9,Internal,test
+P003935,The night nurse threatened to remove my visitors for no reason. I want an apology and corrective action.,0,Communication problems,1,3,Emergency,test
+P003936,The prescribed dosage was wrong and caused severe side effects.,1,Diagnosis/Treatment issues,2,2,Pediatrics,test
+P003937,The biopsy sample was lost and my treatment was delayed months. I have witnesses who can confirm this.,1,Diagnosis/Treatment issues,3,10,Emergency,test
+P003938,The midwife was rough and showed no empathy during labor. Someone must be held accountable for this.,0,Communication problems,1,1,Emergency,test
+P003939,Nurses scolded me for asking for pain relief twice. The whole experience was extremely distressing.,0,Communication problems,4,8,Pediatrics,test
+P003940,The hospital refused to share the incident report with my family. I have witnesses who can confirm this.,3,Responsibility concerns,3,3,Surgery,test
+P003941,My appointment was postponed three times without any explanation.,2,Management problems,1,12,Surgery,test
+P003942,The clinic opens late every morning with a huge crowd outside. I have photos and documents as evidence.,2,Management problems,4,10,Emergency,test
+P003943,The doctor discussed my private condition loudly in the corridor.,0,Communication problems,1,5,Internal,test
+P003944,No one introduced themselves or told me their role in my care. The whole experience was extremely distressing.,0,Communication problems,1,8,Pediatrics,test
+P003945,They confused my lab results with another patient and mistreated me.,1,Diagnosis/Treatment issues,4,12,Internal,test
+P003946,A sponge was left inside me after the operation. The whole experience was extremely distressing.,1,Diagnosis/Treatment issues,3,11,Pediatrics,test
+P003947,Wheelchairs are all broken and no porter is ever available.,2,Management problems,5,1,Surgery,test
+P003948,The midwife was rough and showed no empathy during labor. My thyroid condition went untreated for years despite clear tests. Someone must be held accountable for this.,0,Communication problems,3,3,Radiology,test
+P003949,"After the incident, no manager would meet me or apologize. The night nurse threatened to remove my visitors for no reason.",3,Responsibility concerns,3,6,Emergency,test
+P003950,My request for a second opinion was blocked by the same doctor.,3,Responsibility concerns,3,4,Pediatrics,test
+P003951,The pharmacist refused to explain how to take my pills.,0,Communication problems,5,11,Emergency,test
+P003952,Chemotherapy dosage was miscalculated and poisoned my kidneys. I have photos and documents as evidence.,1,Diagnosis/Treatment issues,2,9,Radiology,test
+P003953,Nobody answered my questions and the staff seemed annoyed. Please investigate this matter urgently.,0,Communication problems,1,10,Pediatrics,test
+P003954,Nobody answered my questions and the staff seemed annoyed.,0,Communication problems,4,2,Radiology,test
+P003955,I paid for a private room but was placed in a shared ward.,2,Management problems,4,6,Emergency,test
+P003956,I waited four months for a specialist appointment that was cancelled. I will escalate this to the health ministry if needed.,2,Management problems,2,8,Radiology,test
+P003957,The hospital refused to share the incident report with my family. I am filing this complaint on behalf of my father.,3,Responsibility concerns,1,6,Emergency,test
+P003958,"The ward was dirty, overcrowded and the bathroom had no water. Staff refused to speak slowly even though I am hard of hearing.",2,Management problems,5,7,Pediatrics,test
+P003959,Security guards treated patients like criminals at the entrance.,0,Communication problems,1,5,Radiology,test
+P003960,The consultant spoke only to my husband and never to me.,0,Communication problems,2,6,Internal,test
+P003961,Staff were gossiping instead of attending to patients in the ward.,0,Communication problems,1,6,Radiology,test
+P003962,No incident number was given so my case officially never existed. My family is very upset about this incident.,3,Responsibility concerns,5,11,Radiology,test
+P003963,Chemotherapy dosage was miscalculated and poisoned my kidneys. No one introduced themselves or told me their role in my care. Someone must be held accountable for this.,1,Diagnosis/Treatment issues,2,9,Emergency,test
+P003964,Hospital parking and admission queues are completely unmanaged. I am filing this complaint on behalf of my father.,2,Management problems,5,3,Internal,test
+P003965,The hospital bus never follows the announced timetable. Staff were gossiping instead of attending to patients in the ward. I trusted this hospital and I feel betrayed.,2,Management problems,1,3,Surgery,test
+P003966,"The staff spoke about me as if I was not in the room. After the incident, no manager would meet me or apologize.",0,Communication problems,5,11,Internal,test
+P003967,Wheelchairs are all broken and no porter is ever available. I have witnesses who can confirm this.,2,Management problems,1,7,Surgery,test
+P003968,The supervisor promised an investigation that never happened. I will escalate this to the health ministry if needed.,3,Responsibility concerns,5,1,Internal,test
+P003969,I asked for an interpreter but the staff mocked my request. The emergency room wait took nine hours with no triage update.,0,Communication problems,3,12,Pediatrics,test
+P003970,Nurses scolded me for asking for pain relief twice. I have photos and documents as evidence.,0,Communication problems,5,2,Internal,test
+P003971,Nobody told me the test results; I heard them by accident. I trusted this hospital and I feel betrayed.,0,Communication problems,3,4,Emergency,test
+P003972,The clinic opens late every morning with a huge crowd outside. I trusted this hospital and I feel betrayed.,2,Management problems,5,3,Radiology,test
+P003973,There were no available beds and I slept on a chair overnight. I am filing this complaint on behalf of my father.,2,Management problems,2,10,Internal,test
+P003974,Staff refused to speak slowly even though I am hard of hearing. I want an apology and corrective action.,0,Communication problems,4,10,Emergency,test
+P003975,The pharmacy had no stock of my prescribed medicine for weeks. I trusted this hospital and I feel betrayed.,2,Management problems,2,10,Emergency,test
+P003976,The doctor spent less than a minute with me and walked away. I was transferred to another hospital just to silence my complaint.,0,Communication problems,4,2,Radiology,test
+P003977,The doctor discussed my private condition loudly in the corridor. Someone must be held accountable for this.,0,Communication problems,5,4,Pediatrics,test
+P003978,The radiologist missed the blood clot clearly visible on the scan.,1,Diagnosis/Treatment issues,1,8,Internal,test
+P003979,No incident number was given so my case officially never existed. I expect a formal written response.,3,Responsibility concerns,4,10,Emergency,test
+P003980,I waited four months for a specialist appointment that was cancelled.,2,Management problems,4,10,Emergency,test
+P003981,My stroke symptoms were sent home as migraine twice. My appointment was postponed three times without any explanation. I have photos and documents as evidence.,1,Diagnosis/Treatment issues,4,4,Emergency,test
+P003982,The consultant spoke only to my husband and never to me.,0,Communication problems,3,3,Pediatrics,test
+P003983,No one followed up after my surgery complications were reported.,3,Responsibility concerns,3,4,Radiology,test
+P003984,The nurse was rude and dismissive when I asked about my medication.,0,Communication problems,1,2,Surgery,test
+P003985,Internal review cleared everyone without speaking to a single patient. The nurse rolled her eyes when I described my symptoms. I have photos and documents as evidence.,3,Responsibility concerns,5,6,Pediatrics,test
+P003986,They offered me money quietly instead of fixing the real problem. I waited four months for a specialist appointment that was cancelled.,3,Responsibility concerns,2,11,Pediatrics,test
+P003987,My baby received an adult dose of vaccine by mistake.,1,Diagnosis/Treatment issues,4,9,Pediatrics,test
+P003988,My surgery was cancelled twice because the room was double-booked. I will escalate this to the health ministry if needed.,2,Management problems,4,3,Emergency,test
+P003989,The hospital lawyer threatened me for posting an honest review.,3,Responsibility concerns,2,6,Pediatrics,test
+P003990,Discharge papers took two days while I kept paying for the bed.,2,Management problems,2,10,Radiology,test
+P003991,They confused my lab results with another patient and mistreated me.,1,Diagnosis/Treatment issues,4,1,Pediatrics,test
+P003992,The night nurse threatened to remove my visitors for no reason. I trusted this hospital and I feel betrayed.,0,Communication problems,5,8,Emergency,test
+P003993,Wrong insulin dose sent me to the emergency room the same night.,1,Diagnosis/Treatment issues,5,2,Surgery,test
+P003994,I was blamed for being sick when I asked for help walking. There is only one toilet for forty patients on this floor.,0,Communication problems,2,6,Radiology,test
+P003995,The allergy test was misread and I was exposed to the allergen. My call button was ignored for over an hour last night.,1,Diagnosis/Treatment issues,5,10,Surgery,test
+P003996,The doctor spent less than a minute with me and walked away. This should never happen to any patient again.,0,Communication problems,1,3,Internal,test
+P003997,A delayed cancer diagnosis cost me months of valuable treatment time.,1,Diagnosis/Treatment issues,4,8,Emergency,test
+P003998,A sponge was left inside me after the operation.,1,Diagnosis/Treatment issues,5,11,Surgery,test
+P003999,The doctor did not listen to my concerns and interrupted me constantly.,0,Communication problems,3,9,Pediatrics,test
+P004000,The clinic opens late every morning with a huge crowd outside. Someone must be held accountable for this.,2,Management problems,4,9,Internal,test
