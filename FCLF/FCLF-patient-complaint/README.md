@@ -15,10 +15,10 @@ With a single command, the code reproduces the comparison table and all three fi
 
 ## 🚀 Quick Start
 
-'''bash
+```bash
 cd fclf
 pip install -r requirements.txt
-python main.py'''
+python main.py
 
 ## 📦 Requirements
 numpy, pandas, matplotlib, seaborn, scikit-learn, scipy
