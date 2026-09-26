@@ -25,7 +25,7 @@ python main.py
 numpy, pandas, matplotlib, seaborn, scikit-learn, scipy
 
 ## 📂 Project Structure
-fclf/
+```fclf/
 ├── main.py
 ├── requirements.txt
 ├── fclf/
@@ -39,6 +39,7 @@ fclf/
 │   ├── plots.py
 │   └── pipeline_demo.py
 └── results/
+```
 
 * Corresponding author: nastaran.evaznia@iau.ir; nastaran.evaznia@gmail.com
 
