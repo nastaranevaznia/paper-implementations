@@ -18,7 +18,8 @@ With a single command, the code reproduces the comparison table and all three fi
 ```bash
 cd fclf
 pip install -r requirements.txt
-python main.py```
+python main.py
+```
 
 ## 📦 Requirements
 numpy, pandas, matplotlib, seaborn, scikit-learn, scipy
