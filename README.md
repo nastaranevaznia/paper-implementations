@@ -1,2 +1,2 @@
-# paper-implementations
+# Paper-implementations
 Implementation of code from scientific papers
