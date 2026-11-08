@@ -1,0 +1,37 @@
+# FRLOR rule base (paper Table 2), 27 rules = 3 x 3 x 3, weight 1.0 (no differential weighting, Sec. 3.3)
+# neighbours: small|average|large     distance (to destination): low|average|high
+# link: weak|average|strong           output: very_bad|bad|average|good|very_good
+#
+# CORRECTION OF PRINTED TABLE 2 (the printed table lists only 24 distinct antecedents, with conflicts):
+#  * rows 19-20 are printed as "Large / High distance / Average link -> Average" and
+#    "Large / High distance / Strong link -> Good" directly after "Large / Low distance / Weak link".
+#    "High" there duplicates the last three rows (which give Bad), so they are read as LOW distance
+#    (the only missing Large/Low combinations).  Please confirm with the authors' original rule file.
+neighbors,distance,link,output,weight
+small,low,weak,average,1.0
+small,low,average,very_good,1.0
+small,low,strong,very_good,1.0
+small,average,weak,bad,1.0
+small,average,average,good,1.0
+small,average,strong,good,1.0
+small,high,weak,very_bad,1.0
+small,high,average,bad,1.0
+small,high,strong,average,1.0
+average,low,weak,average,1.0
+average,low,average,good,1.0
+average,low,strong,very_good,1.0
+average,average,weak,bad,1.0
+average,average,average,average,1.0
+average,average,strong,good,1.0
+average,high,weak,very_bad,1.0
+average,high,average,bad,1.0
+average,high,strong,average,1.0
+large,low,weak,bad,1.0
+large,low,average,average,1.0
+large,low,strong,good,1.0
+large,average,weak,very_bad,1.0
+large,average,average,bad,1.0
+large,average,strong,average,1.0
+large,high,weak,very_bad,1.0
+large,high,average,bad,1.0
+large,high,strong,bad,1.0

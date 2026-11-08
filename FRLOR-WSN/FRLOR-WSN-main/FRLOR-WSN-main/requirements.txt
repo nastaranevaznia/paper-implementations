@@ -1,0 +1,2 @@
+numpy>=1.22
+# Optional: pytest>=7.0   (only if you prefer pytest over unittest)
