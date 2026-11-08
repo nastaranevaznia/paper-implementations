@@ -7,7 +7,7 @@ This repository contains my official implementations and reproducibility package
 | Paper / Project | Topic | Tech Stack | Code | Status |
 | :--- | :--- | :--- | :--- | :--- |
 | **FCLF** | A Distributed LLM Framework for Patient Complaint Analysis in Fog-Cloud Environments | Python, NLP, Dask | [View Code](./FCLF) | Under Review |
-| **HPP-FDRL** | [Hybrid Heart Patient Prioritization with Fuzzy Logic and Deep Reinforcement Learning for Fog–Cloud Task Scheduling] | Python, RL | [View Code](./HPP-FDRL) | Under Review |
+| **HPP-FDRL** |A Hybrid Fuzzy–Deep Reinforcement Learning Framework for Real-Time Heart Patient Prioritization in Fog–Cloud Healthcare Systems | Python, RL | [View Code](./HPP-FDRL) |Published (2026) |
 | **FRLOR** | Fuzzy Reinforcement Learning-based Opportunistic Routing in WSNs | Python, NS-2 | [View Code](./FRLOR-WSN) | Published (2026) |
 
 ## 👩‍💻 Author
